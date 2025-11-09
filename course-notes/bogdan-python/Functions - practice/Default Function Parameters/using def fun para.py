@@ -1,11 +1,3 @@
-#def mult_by_factor(value,  multiplier=1):
-    #return value * multiplier
-
-#print(mult_by_factor(10,2))
-#print(mult_by_factor(5))
-
-#example 2
-
 from datetime import date
 
 def get_weekday():
@@ -24,3 +16,4 @@ initial_post = {
 post_with_weekday = create_new_post(initial_post)
 print(post_with_weekday)
 #print(initial_post)
+
