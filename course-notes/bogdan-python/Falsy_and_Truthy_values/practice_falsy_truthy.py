@@ -1,0 +1,12 @@
+print(bool(0))
+print(bool(0.0))
+print(bool(0j))
+print(bool(None))
+print(bool(False))
+print(bool('string'))
+
+print(bool([1, 2]))        # True  (non-empty list)
+print(bool({'a': 'abc'}))  # True  (non-empty dict)
+print(bool((3, 5)))        # True  (non-empty tuple)
+print(bool({10, 20}))      # True  (non-empty set)
+print(bool(range(1,10)))
