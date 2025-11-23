@@ -33,8 +33,8 @@ Contains:
   - Weekly targets
   - Success criteria
 - All 3 certifications with real details:
-  - Databricks Associate (Jan 2026)
-  - Databricks Professional (Feb 2026)
+  - Databricks Associate (June 2026, Week 30)
+  - Databricks Professional (July 2026, Week 34)
   - AWS Data Engineer Associate (May 2026)
 - Contingency plans (if behind, if exam fails, if burnout, etc.)
 - Your commitment statement

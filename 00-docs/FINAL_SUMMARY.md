@@ -62,8 +62,8 @@
 ✅ Your timeline: 36 weeks (Nov 2025 → Aug 2026)  
 ✅ Your dual-track strategy: Job search + Learning in parallel  
 ✅ Your three certifications:
-  - Databricks Certified Data Engineer Associate (Jan 2026)
-  - Databricks Certified Data Engineer Professional (Feb 2026)
+  - Databricks Certified Data Engineer Associate (June 2026, Week 30)
+  - Databricks Certified Data Engineer Professional (July 2026, Week 34)
   - AWS Certified Data Engineer – Associate (May 2026)
 
 ---
@@ -220,15 +220,12 @@ Dec 2025: SQL & Data Analysis (4 weeks)
 │├─ W7: SQL advanced + Project 2 start
 │└─ W8: Holiday recovery + Project 2 complete
 
-Jan 2026: Databricks Associate (5 weeks)
-│├─ W9-10: Course modules + hands-on labs
-│├─ W11: Exam preparation
-│├─ W12: Exam week → DATABRICKS ASSOCIATE ✅
-│└─ W13: Professional course start + Project 3
+Jan 2026: SQL Mastery (Weeks 9-16)
+│├─ W9-13: SQL Basics to Advanced (Mode Analytics)
+│├─ W14-15: Project 2 (Financial Analysis)
+│└─ W16: Recovery + Buffer
 
-Feb 2026: Databricks Professional (4 weeks)
-│├─ W14-15: Professional course + exam prep
-│├─ W16: Exam week → DATABRICKS PROFESSIONAL ✅
+Mar-Apr 2026: AWS & Cloud (Weeks 17-24)
 │└─ Project 3 (Medallion ETL) ongoing
 
 Mar 2026: AWS & ML (6 weeks)

@@ -41,8 +41,8 @@ Transform from Systems Engineer to hireable Data Engineer through structured 36-
 
 ### What You'll Have by August 2026
 ✅ **3 Certifications:**
-- Databricks Data Engineer Associate (January 2026)
-- Databricks Data Engineer Professional (February 2026)
+- Databricks Data Engineer Associate (June 2026, Week 30)
+- Databricks Data Engineer Professional (July 2026, Week 34)
 - AWS Certified Data Engineer – Associate (May 2026)
 
 ✅ **6 Production Projects:**
@@ -104,37 +104,32 @@ Transform from Systems Engineer to hireable Data Engineer through structured 36-
 - Project: Financial dataset analysis
 - Hours: 10-13/week
 
-**Phase 3: Databricks Associate Sprint (Weeks 9-13, Jan 6-Feb 9)**
-- Resource: Databricks Academy (official courses)
-- Certification: Databricks Data Engineer Associate
-- Project: Medallion ETL pipeline (Bronze/Silver/Gold)
-- Hours: 14-16/week (certification sprint)
-- Target Exam: Late January 2026
+**Phase 3: SQL Mastery (Weeks 9-16, Jan 6-Mar 9)**
+- Resource: Mode Analytics SQL Tutorial (advanced sections)
+- Content: Window functions, CTEs, query optimization
+- Project: Project 2 (Financial Analysis) completion
+- Hours: 10-13/week
 
-**Phase 4: Databricks Professional Sprint (Weeks 14-16, Feb 10-Mar 2)**
-- Resource: Databricks Academy advanced courses
-- Certification: Databricks Data Engineer Professional
-- Project: Advanced medallion architecture
-- Hours: 14-16/week (certification sprint)
-- Target Exam: Late February 2026
+**Phase 4: AWS & Cloud (Weeks 17-24, Mar 10-May 10)**
+- Resource: AWS Certified Data Engineer – Associate study materials
+- Certification: AWS Data Engineer Associate
+- Project: Project 3 (AWS Data Pipeline)
+- Hours: 12-15/week (with cert sprint in weeks 21-24)
+- Target Exam: May 2026
 
-**Phase 5: AWS Data Engineering (Weeks 17-22, Mar 3-Apr 19)**
+**Phase 5: Databricks + Capstone (Weeks 25-36, May 11-Aug 3)**
 - Resource: AWS Certified Data Engineer – Associate study materials
 - Certification: AWS Data Engineer Associate
 - Projects: Data lake, serverless ETL, streaming pipeline
 - Hours: 12-15/week (with cert sprint in weeks 20-22)
 - Target Exam: April 2026
 
-**Phase 6: Capstone + Job Search Launch (Weeks 23-26, Apr 20-May 18)**
-- Project: Commodity Price Monitoring System (production-grade)
-- Job Search: LinkedIn/CV overhaul + applications begin
-- Hours: 10-12/week
-
-**Phase 7: Active Interviewing (Weeks 27-36, May 19-Jul 28)**
-- Capstone finalization
-- Active job applications (25-50 target)
-- Technical interviews + offer negotiation
-- Hours: Flexible based on interview load
+- Certification: Databricks Data Engineer Associate (Week 30, June 2026)
+- Certification: Databricks Data Engineer Professional (Week 34, July 2026)
+- Projects: Project 4 (ML Classification), Project 5 (Databricks Medallion ETL)
+- Capstone: Commodity Price Monitoring System (Weeks 29-36)
+- Job Search: Launch Week 36 (late July)
+- Hours: 12-15/week
 
 ---
 

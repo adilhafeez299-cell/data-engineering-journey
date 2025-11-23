@@ -481,7 +481,7 @@ For legacy content below (earlier dated weeks), treat as reference only. Follow 
 - [ ] SQL fundamentals mastered
 - [ ] **Phase 2 COMPLETE** ✅
 - [ ] 2 portfolio projects on GitHub
-- [ ] Ready for Databricks sprint in January
+- [ ] Ready for SQL Mastery phase (Weeks 9-16)
 
 ---
 

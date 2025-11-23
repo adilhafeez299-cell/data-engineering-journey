@@ -261,7 +261,7 @@ REPEAT FOR 26 WEEKS
 **Check these milestones:**
 - Week 4 (Dec 1): Bogdan 70%, Project 1 done
 - Week 8 (Jan 5): Phase 1 + 2 complete, Project 2 done
-- Week 13 (Feb 9): Databricks Associate cert + Project 3
+- Week 13 (Feb 9): SQL Mastery complete + Project 2 progress
 - Week 22 (Apr 19): AWS cert + Projects 4-5
 - Week 26 (May 18): Capstone started, job search launched
 - Week 36 (Jul 28): Capstone done, job search active
