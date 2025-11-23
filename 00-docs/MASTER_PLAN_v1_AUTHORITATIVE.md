@@ -1,0 +1,660 @@
+# DATA ENGINEERING CAREER TRANSITION
+## Master Plan v1.0 - Single Authoritative Source
+
+**Status:** Week 1 In Progress (November 22–28, 2025)  
+**Timeline:** November 2025 → August 2026 (36 weeks)  
+**Current Role:** Junior Systems Engineer at Atlas Technica (£35k)  
+**Target Role:** Data Engineer (£75k-£85k) by July 2026  
+**Location:** London, UK
+
+---
+
+> Authoritative Alignment (updated)
+> - Weeks run Saturday → Friday; Week 1 = Nov 22–28, 2025
+> - 4 Phases total:
+>   1) Phase 1: Python Foundations (Weeks 1–8, Nov 22–Jan 12)
+>   2) Phase 2: SQL Mastery (Weeks 9–16, Jan 18–Mar 9)
+>   3) Phase 3: AWS & Cloud (Weeks 17–24, Mar 15–May 10)
+>   4) Phase 4: Databricks + Capstone (Weeks 25–36, May 17–Aug 3)
+> - AWS DE Associate: May 2026 (Week 24, target May 10, 2026)
+> - Capstone: Commodity Price Monitoring System (Weeks 25–36)
+
+---
+
+## EXECUTIVE SUMMARY
+
+### The Mission
+Transform from Systems Engineer to hireable Data Engineer through structured 36-week execution combining:
+- Stepping-stone job search (immediate, Nov-Jan)
+- Disciplined learning track (parallel, Nov-Jul)
+- 3 industry certifications
+- 6 production-grade portfolio projects
+- One strategic career jump (£35k → £75k-£85k)
+
+### Why This Works
+1. **Better Role First**: Escape MSP chaos into Cloud Support/Platform Engineer role (£38-50k) by Nov-Dec 2025
+2. **Mental Energy**: New role removes reactive stress, enables focused learning Jan–May 2026
+3. **Credentials + Stability**: Earn certs + build portfolio while in better role
+4. **Strong Candidate**: By May 2026, you'll have 2 certs + 4 projects + stable employment
+5. **Data Engineer Search**: Launch DE job search in Week 36 as part of Phase 4 (late Jul–early Aug 2026)
+6. **Target Outcome**: Interviews through August; target offer soon after (timeline depends on market)
+
+### What You'll Have by August 2026
+✅ **3 Certifications:**
+- Databricks Data Engineer Associate (January 2026)
+- Databricks Data Engineer Professional (February 2026)
+- AWS Certified Data Engineer – Associate (May 2026)
+
+✅ **6 Production Projects:**
+- Project 1: Python Automation Tool (Phase 1)
+- Project 2: Financial Dataset Analysis (Phase 2)
+- Project 3: AWS Data Pipeline (Phase 3)
+- Project 4: Databricks Medallion ETL (Phase 4)
+- Project 5: ML Classification Pipeline (Phase 4)
+- Project 6: Capstone – Commodity Price Monitoring System (Weeks 25–36, May 17–Aug 3)
+
+✅ **Technical Foundation:**
+- Python: Intermediate to advanced
+- SQL: Complex queries, window functions, CTEs
+- PySpark/Databricks: Production pipelines
+- AWS: Data services, serverless
+- Git/GitHub: Professional practice
+
+---
+
+## DUAL-TRACK STRATEGY
+
+### TRACK 1: Job Search (Immediate Priority)
+**Goal:** Secure stepping-stone role by December 2025
+
+**Target Roles:**
+1. Cloud Support Engineer ⭐ (Best fit)
+   - Uses Azure/M365/Intune expertise directly
+   - Less reactive than MSP, more engineering-focused
+2. Platform Support Engineer
+3. Junior Infrastructure Engineer
+4. Application Support Engineer
+
+**Salary Range:** £38k-£50k (temporary position, 12-18 months)
+**Timeline:** 
+- Nov 11-17: CV/LinkedIn update + 30-company target list
+- Nov 18-30: Research + 5 applications
+- Dec 1-31: 15+ additional applications
+- Target: Offer by mid-December, start by January 2026
+
+**Why This Matters:**
+- MSP job actively sabotages learning (reactive, draining)
+- Better role = mental recovery + time for focused study
+- Platform Support roles are stepping stones, not dead ends
+- By Feb 2026, you'll be 6 weeks stable in new role, ready to sprint certifications
+
+### TRACK 2: Learning (Continuous)
+**Goal:** Build technical foundation + earn credentials + create portfolio
+
+**Phase 1: Python Foundations (Weeks 1–8, Nov 22–Jan 12)**
+- Resource: Bogdan Python Course (O'Reilly) - Chapters 1-54+
+- Current: 25% complete (Chapter 26)
+- Target: 70% by end of November
+- Project: Python automation tool
+- Hours: 10-13/week
+
+**Phase 2: SQL & Data Analysis (Weeks 5-8, Dec 2-Jan 5)**
+- Resource: Mode Analytics SQL Tutorial (FREE: mode.com/sql-tutorial)
+- Content: Basic, Intermediate, Advanced SQL
+- Project: Financial dataset analysis
+- Hours: 10-13/week
+
+**Phase 3: Databricks Associate Sprint (Weeks 9-13, Jan 6-Feb 9)**
+- Resource: Databricks Academy (official courses)
+- Certification: Databricks Data Engineer Associate
+- Project: Medallion ETL pipeline (Bronze/Silver/Gold)
+- Hours: 14-16/week (certification sprint)
+- Target Exam: Late January 2026
+
+**Phase 4: Databricks Professional Sprint (Weeks 14-16, Feb 10-Mar 2)**
+- Resource: Databricks Academy advanced courses
+- Certification: Databricks Data Engineer Professional
+- Project: Advanced medallion architecture
+- Hours: 14-16/week (certification sprint)
+- Target Exam: Late February 2026
+
+**Phase 5: AWS Data Engineering (Weeks 17-22, Mar 3-Apr 19)**
+- Resource: AWS Certified Data Engineer – Associate study materials
+- Certification: AWS Data Engineer Associate
+- Projects: Data lake, serverless ETL, streaming pipeline
+- Hours: 12-15/week (with cert sprint in weeks 20-22)
+- Target Exam: April 2026
+
+**Phase 6: Capstone + Job Search Launch (Weeks 23-26, Apr 20-May 18)**
+- Project: Commodity Price Monitoring System (production-grade)
+- Job Search: LinkedIn/CV overhaul + applications begin
+- Hours: 10-12/week
+
+**Phase 7: Active Interviewing (Weeks 27-36, May 19-Jul 28)**
+- Capstone finalization
+- Active job applications (25-50 target)
+- Technical interviews + offer negotiation
+- Hours: Flexible based on interview load
+
+---
+
+## WEEKLY SCHEDULE (Core Pattern)
+
+### Standard Work Week (Mon-Fri)
+- **Monday:** Gym only, no study (recovery from weekend)
+- **Tuesday:** Optional 1-1.5 hrs study (9-10:30pm) OR gym only
+- **Wednesday:** Gym only, no study (mid-week recovery)
+- **Thursday:** Optional 1-1.5 hrs study (9-10:30pm) OR gym only
+- **Friday:** Full rest (no gym, no study) + 30 min weekly check-in (evening)
+- **Subtotal:** 0-3 hours (optional/conditional)
+
+### Weekend Power Sessions (Sat-Sun)
+- **Saturday:** 4-5 hours deep study (mental prime time) + gym
+- **Sunday:** 4-5 hours study + gym
+- **Subtotal:** 8-10 hours
+
+**Weekly Total:** 10-13 hours (weekends drive 80% of progress)
+
+### Certification Sprint Weeks (Jan-Feb, Apr)
+- **Weeknights:** 2 hours (Tue/Thu) = 4 hours
+- **Weekends:** 6-8 hours each = 12-16 hours
+- **Total:** 14-16 hours/week (maximum 4 weeks at a time)
+
+### Recovery Weeks (Built-in)
+- **Frequency:** Every 4-8 weeks
+- **Hours:** 6-8 hours/week (intentionally light)
+- **Purpose:** Prevent burnout, accommodate life events
+- **Scheduled:** Weeks 4, 11, 20, 26, 33
+
+---
+
+## PHASE-BY-PHASE BREAKDOWN
+
+### PHASE 1: PYTHON FOUNDATIONS
+**Duration:** Weeks 1–8 (Nov 22, 2025 – Jan 12, 2026)  
+**Status:** Week 1 IN PROGRESS
+
+**Learning Goal:** Master Python fundamentals, establish sustainable rhythm
+
+**Primary Resource:**
+- Bogdan Python Course (O'Reilly) - Chapters 1–54+
+- Current: ~25–30%
+- Phase target: ~70% by end of Week 8 (Jan 12)
+
+**Method:**
+- Code EVERY example yourself (no copy-paste)
+- Take detailed notes on confusing concepts
+- Build practice problems after each section
+- Use Jupyter notebooks for interactive learning
+
+**Weekly Micro-Targets (Sat→Fri weeks):**
+- Week 1 (Nov 22–28): Consolidate to ~30%; select Project 1 idea
+- Week 2 (Nov 29–Dec 5): 30% → 45–50%; list 5–10 confusing topics
+- Week 3 (Dec 6–12): 50% → 60–65%; Project 1 planning + repo skeleton
+- Week 4 (Dec 13–19): Recovery; reach ~70%; start coding Project 1
+- Week 5 (Dec 20–26): Project 1 core logic working; error handling/tests
+- Week 6 (Dec 27–Jan 2): Project 1 polish + README; finalize functionality
+- Week 7 (Jan 3–9): Python consolidation; advanced topics review (iterators, generators, OOP)
+- Week 8 (Jan 10–12): Buffer/recovery; Project 1 final touches; prepare for SQL phase
+
+Use WEEK_BY_WEEK for day-by-day details.
+
+**Parallel Activity:**
+- Python for Data Analysis (McKinney) - Commute reading only, Chapters 1-5
+- Job search: 30-company target list, CV update, LinkedIn optimization
+
+**Deliverables:**
+- [ ] Bogdan course 70% complete
+- [ ] Python automation project on GitHub (file organizer, CSV analyzer, or log parser)
+- [ ] CV updated with new positioning
+- [ ] LinkedIn headline + about section updated
+- [ ] 10 applications submitted (stepping-stone roles)
+- [ ] Sustainable study rhythm established
+
+**Success Metrics:**
+- Can write Python functions confidently without syntax lookup
+- Understand data structures (lists, dicts, sets, tuples)
+- Implement basic OOP (classes, methods, attributes)
+- Handle file I/O and errors properly
+- Use Git/GitHub independently
+
+---
+
+### PHASE 2: SQL & DATA ANALYSIS (SQL Mastery)
+**Duration:** Weeks 9–16 (Jan 18 – Mar 9, 2026)  
+**Status:** Not started yet
+
+**Learning Goal:** Master SQL fundamentals + complex queries, build first ETL analysis
+
+**Primary Resource:**
+- Mode Analytics SQL Tutorial (https://mode.com/sql-tutorial/) - FREE
+- Topics: SELECT, WHERE, JOINs, GROUP BY, window functions, CTEs, subqueries
+- Estimated time: 12-15 hours
+
+**Secondary:**
+- Frank Kane ML Course (commute watching, not deep study)
+- Python for Data Analysis Chapters 6-8 (reference reading)
+
+**Weekly Targets (Sat→Fri):**
+- Week 9 (Jan 18–24): SQL Basics — SELECT/WHERE/ORDER BY; 20 practice queries
+- Week 10 (Jan 25–31): Joins Deep Dive — INNER/LEFT/RIGHT/FULL; 25 join queries
+- Week 11 (Feb 1–7): Aggregations — GROUP BY/HAVING; multi-table summaries (20 queries)
+- Week 12 (Feb 8–14): Window Functions I — ROW_NUMBER/RANK/LAG/LEAD (20 queries)
+- Week 13 (Feb 15–21): Window Functions II + CTEs/Subqueries; first visualization
+- Week 14 (Feb 22–28): Performance basics (EXPLAIN, indexes); refactor queries
+- Week 15 (Mar 1–7): Project 2 finish — README + visualizations + push to GitHub
+- Week 16 (Mar 8–13): Buffer/recovery — ensure 30+ queries, tighten docs
+
+**Project 2: Financial Dataset Analysis**
+- Load financial dataset (Kaggle or similar) into PostgreSQL/SQLite
+- Write 20+ analytical queries
+- Create simple visualizations (pandas + matplotlib)
+- Export results and document insights
+- Push to GitHub with comprehensive README
+
+**Deliverables:**
+- [ ] Mode Analytics SQL Tutorial complete
+- [ ] PostgreSQL/SQLite installed and comfortable with
+- [ ] 30+ SQL practice queries written
+- [ ] Project 2 complete and on GitHub
+- [ ] 20-25 total stepping-stone applications submitted
+- [ ] 2-3 informational interviews conducted
+
+**Success Metrics:**
+- Write complex queries with multiple JOINs confidently
+- Use window functions (ROW_NUMBER, RANK, LAG/LEAD)
+- Understand when to use CTEs vs subqueries
+- Analyze real datasets and extract insights
+- Design SQL queries that run efficiently
+
+---
+
+### PHASE 3: AWS & CLOUD
+**Duration:** Weeks 17–24 (Mar 15 – May 10, 2026)  
+**Status:** Not started yet  
+**Study Intensity:** 12–15 hours/week (certification sprint near AWS exam)
+
+**Learning Goal:** Earn AWS Data Engineer – Associate; build AWS data pipeline
+
+**Primary Resource:**
+- AWS official DEA-C01 materials; hands‑on in AWS Free Tier; practice exams
+
+**Certification Details:**
+- **Name:** AWS Certified Data Engineer – Associate (DEA‑C01)
+- **Cost:** ~$150 USD
+- **Format:** 65 questions, scenario-based (130 min)
+- **Pass Score:** 720/1000 (72%)
+- **Exam Date Target:** Week 24 (by May 10, 2026)
+
+**Study Plan (example):**
+- **Weeks 17–20:** Core AWS services (S3, Glue, Athena, Redshift, Lambda); build labs
+- **Weeks 21–23:** Practice exams + weak area drilling; finalize Project 3 (AWS pipeline)
+- **Week 24:** Exam week (by Sun May 10)
+
+**Project 3: AWS Data Pipeline**
+- Data lake on S3; transformations via Lambda/Glue; warehouse on Redshift/RDS
+- EventBridge/Step Functions for orchestration; CloudWatch for monitoring
+- IaC template (CloudFormation/Terraform) and architecture diagram
+
+**Job Search Activity:**
+- New role secured and settled in (3-4 weeks in)
+- Continue learning without external job search pressure
+- No stepping-stone applications this phase
+
+**Deliverables:**
+- [ ] AWS Data Engineer – Associate PASSED ✅ (by Week 24)
+- [ ] Project 3 (AWS Data Pipeline) complete and documented
+- [ ] 3+ practice exams scored ≥ 75–80%
+- [ ] IaC template + architecture diagram committed
+
+**Success Metrics:**
+- Pass AWS exam on first or second attempt
+- Design data lakes on S3 with proper partitioning
+- Build serverless ETL with Lambda/Glue
+- Work effectively with Redshift/Athena
+- Implement monitoring and alerting (CloudWatch/SNS)
+
+---
+
+### PHASE 4: DATABRICKS + CAPSTONE
+**Duration:** Weeks 25–36 (May 17 – Aug 3, 2026)  
+**Status:** Not started yet  
+**Study Intensity:** 12–16 hours/week (mix of Databricks + project build)
+
+**Learning Goal:** Complete Databricks medallion project and Capstone
+
+**Primary Resource:**
+- Databricks Academy materials + Capstone build
+
+Optional: Databricks Professional certification (schedule flexibly during Phase 4)
+
+**Focus Areas:**
+- Databricks ETL (Bronze/Silver/Gold), workflows, monitoring
+- Capstone: Commodity Price Monitoring System (Weeks 25–36)
+
+**Project 3 Continued:**
+- Complete Gold layer implementation
+- Add advanced Delta features (time travel, schema evolution)
+- Implement data quality framework
+- Add monitoring and alerting
+- Polish documentation
+
+**Deliverables:**
+- [ ] Databricks Professional certification PASSED ✅
+- [ ] Project 3 fully complete and documented
+- [ ] 2 Databricks certifications obtained 🎉
+- [ ] Production-ready medallion architecture demonstrated
+
+**Success Metrics:**
+- Pass Professional exam on first or second attempt
+- Design production data pipelines independently
+- Understand advanced Delta Lake features
+- Build multi-hop architectures
+- Optimize Spark jobs for performance
+
+---
+
+### (Legacy sections removed): Former Phase 5–7 content consolidated into Phase 3 (AWS) and Phase 4 (Databricks + Capstone). Job search launch now explicitly occurs in Week 36 within Phase 4.
+
+---
+
+## PROJECT LIBRARY (AUTHORITATIVE)
+
+### Project 1: Python Automation Tool
+- **Phase:** 1 (Nov-Dec)
+- **Tech Stack:** Python, file I/O, error handling, argparse
+- **Purpose:** Demonstrate Python fundamentals
+- **Scope:** File organizer, CSV analyzer, or log parser
+- **Deliverable:** GitHub repo with working tool + comprehensive README
+- **Time:** 8-10 hours total
+
+### Project 2: Financial Dataset Analysis
+- **Phase:** 2 (Dec-Jan)
+- **Tech Stack:** SQL, PostgreSQL/SQLite, Python (pandas), matplotlib
+- **Purpose:** Demonstrate SQL mastery + data analysis capability
+- **Scope:** Load financial data, write 20+ queries, create visualizations
+- **Deliverable:** GitHub repo with queries, analysis, insights documented
+- **Time:** 10-12 hours total
+
+### Project 3: Databricks Medallion ETL Pipeline
+- **Phase:** 3-4 (Jan-Feb)
+- **Tech Stack:** PySpark, Delta Lake, Databricks, Databricks Workflows
+- **Purpose:** Demonstrate medallion architecture + Delta Lake understanding
+- **Scope:** Bronze/Silver/Gold layers, data quality, orchestration
+- **Deliverable:** Databricks notebooks + GitHub with architecture diagram
+- **Time:** 15-18 hours total
+
+### Project 4: ML Classification Pipeline
+- **Phase:** 5 (Mar)
+- **Tech Stack:** Python, scikit-learn, pandas, model evaluation
+- **Purpose:** Demonstrate ML + DE integration
+- **Scope:** Financial prediction (fraud or credit risk), end-to-end pipeline
+- **Deliverable:** GitHub repo with model card, evaluation metrics, code
+- **Time:** 12-15 hours total
+
+### Project 5: AWS Data Pipeline
+- **Phase:** 5 (Apr)
+- **Tech Stack:** AWS (S3, Lambda, Glue, Redshift), Python
+- **Purpose:** Demonstrate cloud data engineering capability
+- **Scope:** Ingest → Transform → Load pipeline, serverless preferred
+- **Deliverable:** GitHub repo with CloudFormation/Terraform + architecture diagram
+- **Time:** 15-18 hours total
+
+### Project 6: CAPSTONE - Commodity Price Monitoring System
+- **Phase:** 4 (Weeks 25–36, May 17–Aug 3)
+- **Tech Stack:** Python, PySpark, Delta Lake, Databricks, APIs
+- **Purpose:** Demonstrate full-stack end-to-end capability
+- **Scope:** Production-grade system with ingestion, ETL, quality, monitoring, docs
+- **Deliverable:** Complete repo with notebooks, architecture, demo video
+- **Time:** 25-30 hours total
+
+---
+
+## CERTIFICATIONS (AUTHORITATIVE)
+
+### Databricks Certified Data Engineer Associate
+- **Target Date:** January 2026 (Week 13)
+- **Cost:** ~$200 USD
+- **Format:** Multiple choice + code scenarios, 90 minutes
+- **Pass Score:** 70%
+- **Topics:** PySpark, Delta Lake, Databricks SQL, Workflows
+- **Study Time:** 30-40 hours (including hands-on labs)
+- **Retake Buffer:** 2 weeks if needed
+
+### Databricks Certified Data Engineer Professional
+- **Target Date:** February 2026 (Week 15)
+- **Cost:** ~$200 USD
+- **Format:** Scenario-based, architecture-focused, 120 minutes
+- **Pass Score:** 70%
+- **Topics:** Advanced Spark, streaming, multi-hop architecture, optimization
+- **Study Time:** 30-40 hours (including hands-on labs)
+- **Retake Buffer:** 2 weeks if needed
+
+### AWS Certified Data Engineer – Associate
+- **Target Date:** May 2026 (Week 24)
+- **Cost:** ~$150 USD
+- **Format:** 65 multiple choice questions, scenario-based, 130 minutes
+- **Pass Score:** 720/1000 (72%)
+- **Exam Code:** DEA-C01
+- **Topics:** S3, Glue, Athena, Redshift, Kinesis, Lambda, IAM
+- **Study Time:** 40-50 hours (including hands-on labs)
+- **Retake Buffer:** 2 weeks if needed
+
+---
+
+## KEY RESOURCES (VERIFIED ONLY)
+
+### Python
+- **Bogdan Python Course** (O'Reilly)
+  - Comprehensive Python fundamentals
+  - Real course, real chapters (don't fabricate chapter titles)
+  
+- **Python for Data Analysis** (Wes McKinney, O'Reilly)
+  - Reference for pandas, numpy, data manipulation
+  - Chapters 1-5 for commute reading
+
+### SQL
+- **Mode Analytics SQL Tutorial** (https://mode.com/sql-tutorial/)
+  - FREE resource
+  - Basic, Intermediate, Advanced sections
+  - Hands-on practice with real datasets
+
+### Databricks
+- **Databricks Academy** (official)
+  - Data Engineer Associate course
+  - Data Engineer Professional course
+  - Free for community members
+  - Real hands-on labs in Databricks Community Edition
+
+### AWS
+- **AWS Certified Data Engineer – Associate Study Materials**
+  - Official AWS study guide (from AWS training)
+  - AWS Free Tier for hands-on labs
+  - Practice exams available
+
+---
+
+## CONTINGENCY PLANS
+
+### If Behind by 1-2 Weeks
+- Add 2-3 hours to next 2 weekends
+- Focus on core content only
+- Reduce project polish (working > perfect)
+
+### If Behind by 3+ Weeks
+- Extend current phase by 1-2 weeks
+- Maintain sustainable pace (quality over speed)
+- Adjust timeline as needed
+
+### If Certification Exam Failed
+- Review results (weak areas)
+- Use 2-week retake buffer
+- Focus study on identified gaps
+- Most people pass on second attempt
+
+### If No Stepping-Stone Offer by February
+- Stay at MSP current role
+- Adjust timeline: Reduce stepping-stone search to maintenance level
+- Focus energy on certifications
+- Launch Data Engineer search with 2 Databricks certs
+- This is acceptable - you'll have 2 strong credentials
+
+### If Burnout Occurs
+- Take full week off (guilt-free)
+- Resume at 50% capacity
+- Extend timeline as needed
+- Health > timeline always
+
+### If Job Search Takes Longer
+- No financial pressure to accept wrong offer
+- Continue applying 5-10/week
+- Adjust strategy based on interview feedback
+- Quality of next role > speed of exit
+
+---
+
+## WEEKLY CHECK-IN TEMPLATE
+
+**Report Every Friday Evening:**
+
+```
+Week [X] Check-In
+Status: [Learning Phase/Week X of Y]
+
+Learning Progress:
+- Resource: [What you studied]
+- Completion: [%] → [%]
+- Topics covered: [List]
+- Hours: [Actual] / [Target]
+
+Projects:
+- [Project name]: [Status - Planning/In Progress/Complete]
+- Blockers: [Any challenges]
+
+Job Search (if active):
+- Applications: [#] submitted this week
+- Interviews: [#] scheduled/completed
+- Key learnings: [What you learned]
+
+Wins (What went well):
+- [Win 1]
+- [Win 2]
+
+Challenges (What was hard):
+- [Challenge 1]
+- [Challenge 2]
+
+Next Week:
+- Target: [Specific goal]
+- Focus: [What you'll prioritize]
+- Hours planned: [Expected]
+
+Energy Level: [1-5 scale]
+On Track: [Yes/No/Adjusting]
+Notes: [Anything else]
+```
+
+---
+
+## TRACKING & ACCOUNTABILITY
+
+- Create spreadsheet: Week | Phase | Hours | Progress | Projects | Status
+- Update weekly after Friday check-in
+- Color code: Green (on track), Yellow (slightly behind), Red (needs adjustment)
+
+### Monthly Reviews
+- End of each month: Review all weekly check-ins
+- Calculate total hours vs target
+- Assess project completion
+- Identify patterns
+- Adjust next month if needed
+
+### Accountability Partners
+- **Claude:** Weekly check-ins, technical guidance, roadmap adjustments
+- **Optional:** Data engineering Discord/Slack for community
+- **Optional:** Study buddy or mentor for peer accountability
+
+---
+
+## CRITICAL SUCCESS FACTORS
+
+### Non-Negotiables
+1. **Gym 5-6 days/week** - Mental health foundation (you've proven this works)
+2. **Weekend focus** - 80% of study happens Sat/Sun when mentally fresh
+3. **Code everything yourself** - No copy-paste, build real neural pathways
+4. **Weekly check-ins** - Accountability and course correction
+5. **Build > Study** - 70% hands-on projects, 20% courses, 10% theory
+
+### What NOT to Do
+- Don't start new courses mid-phase (focus on core only)
+- Don't polish projects endlessly (working > perfect)
+- Don't skip recovery weeks (they're part of the strategy)
+- Don't apply to jobs before May 2026 for Data Engineer roles
+- Don't sacrifice sleep or meals for study
+
+### What TO Do
+- Show up every weekend consistently
+- Ask for help when stuck >30 minutes
+- Celebrate wins along the way
+- Adjust intelligently when life happens
+- Trust the process
+
+---
+
+## NEXT IMMEDIATE ACTIONS (This Week)
+
+### Learning Track
+- [ ] Bogdan Python: Code every example yourself
+- [ ] Take detailed notes on confusing sections
+- [ ] Target (Week 1): Reach ~30% by Friday Nov 28
+
+### Job Search Track
+- [ ] Update CV with new positioning (Cloud Support Engineer angle)
+- [ ] Update LinkedIn headline: "Systems Engineer | Azure/M365 | Learning Python & Data | Cloud Support Focus"
+- [ ] Update LinkedIn About section with career transition narrative
+- [ ] Create 30-company target list (research 10 this week)
+- [ ] Request 5 LinkedIn endorsements (Azure, M365, PowerShell, troubleshooting, Cloud)
+
+- [ ] Friday evening (Nov 28): Report progress to Claude
+- [ ] Confirm next week's focus
+- [ ] Celebrate this week's wins
+
+---
+
+## FINAL COMMITMENT
+
+```
+I, Adil Hafeez, commit to:
+
+Learning Track:
+- Following this roadmap Nov 2025 → Jul 2026
+- Studying 10-13 hours/week minimum
+- Building 6 real projects
+- Earning 3 certifications
+- Not quit when it gets hard
+- Coding every example myself
+
+Job Search Track:
+- Starting stepping-stone search NOW
+- Applying 2-5 roles/week when actively searching
+- Networking consistently
+- Treating interviews professionally
+- Securing stepping-stone offer by December 2025
+
+Both Tracks:
+- Weekly Sunday check-ins with Claude
+- Maintaining gym routine (5-6 days/week)
+- Being kind to myself when I stumble
+- Celebrating wins along the way
+- Trusting this process
+
+Signature: _______________________
+Date: November 18, 2025
+```
+
+---
+
+**Version:** 1.0 - Authoritative Single Source  
+**Created:** November 18, 2025  
+**Status:** Week 1 In Progress  
+**Next Review:** Weekly (Every Friday)
