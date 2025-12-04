@@ -17,7 +17,7 @@
 
 ---
 
-## THE FIVE DOCUMENTS (3 Core + 2 Reference)
+## THE SEVEN DOCUMENTS (3 Core + 4 Reference)
 
 ### 📋 Core 1. MASTER_PLAN_v1_AUTHORITATIVE.md
 Your strategic roadmap. The big picture.
@@ -154,6 +154,48 @@ Contains:
 
 ---
 
+### 📁 Reference 5. FOLDER_STRUCTURE_GUIDE.md
+**Your repository organization guide. Know where everything goes.**
+
+**Contains:**
+- Phase folder structure (01-phase-python through 04-phase-databricks-capstone)
+- Project folder structure (all 6 portfolio projects)
+- When to create folders (just-in-time approach)
+- What goes where as you learn
+- Filling timeline for each phase
+- Note-taking structure (confusion logs, topic notes)
+- Folder filling principles
+
+**Use this for:**
+- Starting a new phase: "What folders should I create?"
+- Organizing learning materials: "Where do I put these course files?"
+- Taking notes effectively: "How should I structure my notes?"
+- Project organization: "How should I set up my project repo?"
+- Weekly reviews: "What should I update in my notes?"
+
+---
+
+### 💬 Reference 6. NEW_CHAT_STARTER_GUIDE.md
+**Claude calibration tool. Start every new chat with this.**
+
+**Contains:**
+- Quick context template (copy-paste for new chats)
+- Phase-specific context for all 4 phases
+- Common scenarios and how to ask Claude for help
+- Anti-spiral reminders (when feeling overwhelmed)
+- Success metrics by phase
+- Calibration reminders for Claude
+- Your learning workflow preferences
+
+**Use this for:**
+- Every new Claude conversation: Copy the quick context template
+- Getting unstuck: Use the scenario templates to ask better questions
+- Feeling overwhelmed: Read the anti-spiral reminders
+- Career application support: Use the career scenario template
+- Checking if on track: Reference success metrics for your phase
+
+---
+
 ## AT A GLANCE: YOUR COMPLETE SYSTEM
 
 | Document | Purpose | Read Time | Reference | When to Use |
@@ -161,9 +203,12 @@ Contains:
 | MASTER_PLAN | Strategic roadmap | 30-45 min | Monthly | Big picture, monthly reviews |
 | WEEK_BY_WEEK | Execution guide | 10 min/week | Weekly | Daily execution, specific tasks |
 | PROJECT_LIBRARY | Project specs | 20 min/project | Per project | When building each project |
+| DOCUMENT_INDEX | Master index | 10 min | As needed | Quick reference, finding info |
 | HOW_TO_USE | Meta guide | 15 min | First time | Setup, understanding system, FAQ |
+| FOLDER_STRUCTURE | Repo organization | 15 min | Per phase | Organizing files, starting new phase |
+| NEW_CHAT_STARTER | Claude calibration | 5 min | Every new chat | Starting conversations with context |
 
-**Total reading time to get started:** ~2 hours (well worth it)
+**Total reading time to get started:** ~2.5 hours (well worth it)
 
 ---
 
@@ -222,10 +267,16 @@ Contains:
 **Question:** "Am I on track for my goals?"  
 → Open **MASTER_PLAN** and check monthly milestones
 
-**Question:** "How do I set up my routine?"  
+**Question:** "How do I set up my routine?"
 → Open **HOW_TO_USE** and read the workflows
 
-**Question:** "What if I fall behind?"  
+**Question:** "Where should I put my course files?"
+→ Open **FOLDER_STRUCTURE** and check your current phase
+
+**Question:** "How do I start a new chat with Claude?"
+→ Open **NEW_CHAT_STARTER** and copy the quick context template
+
+**Question:** "What if I fall behind?"
 → Open **MASTER_PLAN** and read contingency plans
 
 **Question:** "What should I learn this month?"  
@@ -348,11 +399,13 @@ All that's left is execution.
 
 ## QUICK LINKS (In This Repo)
 
-📄 **MASTER_PLAN_v1_AUTHORITATIVE.md**  
-📅 **WEEK_BY_WEEK_EXECUTION_v1_AUTHORITATIVE.md**  
-📚 **PROJECT_LIBRARY_v1_AUTHORITATIVE.md**  
-🧭 **HOW_TO_USE_YOUR_PLANS.md**  
+📄 **MASTER_PLAN_v1_AUTHORITATIVE.md**
+📅 **WEEK_BY_WEEK_EXECUTION_v1_AUTHORITATIVE.md**
+📚 **PROJECT_LIBRARY_v1_AUTHORITATIVE.md**
 📑 **DOCUMENT_INDEX.md** (this file)
+🧭 **HOW_TO_USE_YOUR_PLANS.md**
+📁 **FOLDER_STRUCTURE_GUIDE.md**
+💬 **NEW_CHAT_STARTER_GUIDE.md**
 
 Save these to a folder on your desktop or cloud storage for easy access.
 

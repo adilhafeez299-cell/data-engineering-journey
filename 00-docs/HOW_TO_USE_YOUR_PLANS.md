@@ -6,9 +6,9 @@
 
 ---
 
-## THE FIVE DOCUMENTS (3 Core + 2 Reference)
+## THE SEVEN DOCUMENTS (3 Core + 4 Reference)
 
-You now have five complete, accurate, non-fabricated documents:
+You now have seven complete, accurate, non-fabricated documents:
 
 ### Core 1. **MASTER_PLAN_v1_AUTHORITATIVE.md**
 **Your strategic roadmap. Read this once, reference always.**
@@ -52,17 +52,45 @@ You now have five complete, accurate, non-fabricated documents:
 - Project 5: ML Classification Pipeline (Jun–Jul)
 - Project 6: CAPSTONE – Commodity Price Monitoring System (Weeks 25–36, May 17–Aug 3)
 
-### Reference 4. **DOCUMENT_INDEX.md**
-Quick reference guide for the whole system.
-
-### Reference 5. **HOW_TO_USE_YOUR_PLANS.md** (this file)
-Meta guide for workflows and FAQs.
-
 **When to use:**
 - When starting a new project: Read that project's full spec
 - When unsure what to build: Check the requirements
 - For README templates: See the deliverables section
 - For GitHub structure: See the repo structure example
+
+### Reference 4. **DOCUMENT_INDEX.md**
+**Quick reference guide for the whole system.**
+
+**When to use:**
+- Looking for specific information quickly
+- Need to know which document contains what
+- Want an overview of all documentation
+
+### Reference 5. **HOW_TO_USE_YOUR_PLANS.md** (this file)
+**Meta guide for workflows and FAQs.**
+
+**When to use:**
+- Understanding how to navigate the documentation system
+- Setting up your daily/weekly/monthly routines
+- Reference when feeling lost
+
+### Reference 6. **FOLDER_STRUCTURE_GUIDE.md**
+**Your repository organization guide.**
+
+**When to use:**
+- Starting a new phase: What folders to create
+- Organizing learning materials: Where files should go
+- Taking notes: How to structure your notes
+- Weekly reviews: What to update in your folders
+
+### Reference 7. **NEW_CHAT_STARTER_GUIDE.md**
+**Claude calibration tool for every new conversation.**
+
+**When to use:**
+- Every new Claude chat: Copy the quick context template
+- Getting unstuck: Use scenario templates for better questions
+- Feeling overwhelmed: Read anti-spiral reminders
+- Career application support: Use career scenario templates
 
 ---
 
@@ -307,12 +335,16 @@ You previously had multiple versions:
 - Various roadmap versions ❌ Deprecated
 - Multiple week-by-week plans ❌ Deprecated
 
-**These three documents replace all of them:**
+**These seven documents replace all of them:**
 1. MASTER_PLAN_v1_AUTHORITATIVE.md ✅
 2. WEEK_BY_WEEK_EXECUTION_v1_AUTHORITATIVE.md ✅
 3. PROJECT_LIBRARY_v1_AUTHORITATIVE.md ✅
+4. DOCUMENT_INDEX.md ✅
+5. HOW_TO_USE_YOUR_PLANS.md ✅
+6. FOLDER_STRUCTURE_GUIDE.md ✅
+7. NEW_CHAT_STARTER_GUIDE.md ✅
 
-**Going forward:** Only reference these three. If you need clarification, ask me. Don't create new versions yourself.
+**Going forward:** Only reference these seven. If you need clarification, ask me. Don't create new versions yourself.
 
 ---
 
