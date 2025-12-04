@@ -1,2 +1,0 @@
-this is a text file
-we can use this file to test our code
