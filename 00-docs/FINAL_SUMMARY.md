@@ -1,3 +1,4 @@
+
 # 🎯 YOUR COMPLETE PLAN IS READY
 
 **Date:** November 23, 2025
@@ -13,12 +14,11 @@
 ✅ **SEVEN COMPLETE DOCUMENTS** (all in `00-docs/`)
 
 1. **MASTER_PLAN_v1_AUTHORITATIVE.md** (UPDATED - Dec 2025)
-   - Your 18-24 month strategic roadmap (REVISED from 9 months)
-   - 3 phases: Engineering Fundamentals → On-the-Job Learning → DE Transition
-   - Timeline Flexibility section added
-   - Target: Junior SWE/Platform Engineer by Jan 2026, Data Engineer by mid-2027
-   - 1-2 targeted certifications (not 3 rushed)
-   - 3-4 quality projects (not 6 rushed)
+   - Your flexible strategic roadmap (9-24 months depending on job outcome)
+   - Timeline Flexibility section added (Core Plan vs Extended Plan)
+   - Target: Junior SWE/Platform Engineer by Jan 2026
+   - All 3 certifications required (AWS DE + 2 Databricks)
+   - All 6 projects required (spaced better if extended timeline)
    - Contingency plans
 
 2. **WEEK_BY_WEEK_EXECUTION_v1_AUTHORITATIVE.md** (UPDATED - Dec 2025)
@@ -28,11 +28,12 @@
    - Weekly check-in template
 
 3. **PROJECT_LIBRARY_v1_AUTHORITATIVE.md** (UPDATED - Dec 2025)
-   - 3-4 quality projects (revised from 6)
-   - Immediate: Project 1 (Python Automation Tool)
-   - Future: Projects 2-4 during engineering role (2026-2027)
-   - Requirements, deliverables, success criteria
+   - All 6 projects required (timing flexible based on job outcome)
+   - Immediate: Project 1 (Python Automation Tool, complete by Jan 2026)
+   - All projects listed with full specifications
+   - Requirements, deliverables, success criteria for each
    - GitHub repo structure for each
+   - Timeline: 9 months if Core Plan, 18-24 months if Extended Plan (less rushed)
 
 4. **DOCUMENT_INDEX.md** (UPDATED - Dec 2025)
    - Quick reference guide
@@ -65,19 +66,44 @@
 ✅ Your gym schedule: 5-6 days/week (non-negotiable)
 ✅ Your work hours: 9 AM-6 PM
 ✅ Your available study time: 10-13 hours/week (weekends primarily)
-✅ **REVISED GOAL:** Junior SWE/Platform Engineer by Jan 2026 (£38k-£50k), then Data Engineer by mid-2027 (£60k-£75k)
+✅ **JOB SEARCH STRATEGY:** Junior SWE/Platform Engineer by Jan 2026 (£38k-£50k)
 ✅ Your learning resources:
   - Bogdan Python Course (O'Reilly)
-  - On-the-job learning (40hrs/week, Jan 2026 onwards)
-  - Weekend supplements: SQL, cloud, data tools (2026-2027)
-✅ **REVISED TIMELINE:** 18-24 months (Nov 2025 → Jul 2027)
+  - Mode Analytics SQL Tutorial (FREE)
+  - Databricks Academy (official courses)
+  - AWS official study materials
+  - On-the-job learning (if engineering role secured)
+✅ **TIMELINE FLEXIBILITY:** 9-24 months depending on job outcome
+  - Core Plan: 9 months (if Cloud Support or stay at MSP)
+  - Extended Plan: 18-24 months (if Junior SWE/Platform role secured)
 ✅ Your dual-track strategy: Job search (Junior SWE/Platform Engineer) + Learning in parallel
-✅ **REVISED CERTIFICATIONS:** 1-2 targeted (not 3 rushed)
-  - AWS Certified Developer/Solutions Architect (during job, 2026)
-  - Optional: Databricks Associate (if time permits, 2027)
+✅ **3 Certifications (unchanged):**
+  - AWS Certified Data Engineer – Associate (May 2026)
+  - Databricks Data Engineer Associate (June 2026)
+  - Databricks Data Engineer Professional (July 2026)
 
-**Philosophy Update:**
-Better to spend 18-24 months becoming a STRONG engineer, then specialize in data, than to rush into 'Data Engineer' title in 9 months with shallow foundation.
+✅ **6 Production Projects (unchanged):**
+  - Project 1: Python Automation Tool (Phase 1)
+  - Project 2: Financial Dataset Analysis (Phase 2)
+  - Project 3: AWS Data Pipeline (Phase 3)
+  - Project 4: Databricks Medallion ETL (Phase 4)
+  - Project 5: ML Classification Pipeline (Phase 4)
+  - Project 6: Capstone – Commodity Price Monitoring System (Weeks 25-36)
+
+✅ **Technical Foundation (unchanged):**
+  - Python: Intermediate to advanced
+  - SQL: Complex queries, window functions, CTEs
+  - PySpark/Databricks: Production pipelines
+  - AWS: Data services, serverless
+  - Git/GitHub: Professional practice
+
+**Timeline Flexibility:**
+- **Core Plan (9 months):** Complete all above by July 2026, launch DE search
+- **Extended Plan (18-24 months):** If you secure Junior SWE/Platform role:
+  - Stay 1-2 years to build strong engineering foundation
+  - Complete all 6 projects + 3 certs in parallel (less rushed)
+  - Launch DE search mid-2027 with 1-2 years engineering experience
+  - Target: £75k-£85k Data Engineer role with dual expertise
 
 ---
 
@@ -236,29 +262,37 @@ Dec 2025 onwards: Continue learning progression
 └─ All 6 projects + 3 certifications
 ```
 
-**Job Search Track (Updated):**
+**Job Search Track (Updated Strategy):**
 ```
-Nov-Dec 2025: Junior SWE/Platform Engineer search
-├─ W2-3: Applications + networking
+Nov - Dec 2025: Junior SWE/Platform Engineer Search
+├─ W2-3: Applications + networking (targeting engineering roles)
 ├─ W4-6: Follow-ups + interviews
-└─ Target: Offer by Jan 2026
+└─ Target: Engineering role offer by Jan 2026
 
-Jan 2026 - Mid-2027: Engineering Role (18-24 months)
-├─ Learn to code properly (40hrs/week paid)
-├─ Build strong foundation
-├─ Continue learning track on weekends (5-8hrs/week)
-├─ Complete projects and certifications
-└─ Become strong engineer with DE specialization
+**SCENARIO A: Junior SWE/Platform Role (Preferred)**
+Jan 2026 - Mid 2027: Engineering Role + Parallel DE Learning
+├─ Work: 40 hrs/week engineering (paid learning)
+├─ Study: 10-13 hrs/week weekends (DE focus - same as original plan)
+├─ Complete: All 6 projects + 3 certs by mid-2026 (less rushed)
+├─ Build: Dual expertise (engineering + data engineering)
+└─ Result: Strong foundation with professional experience
 
-Mid-2027: Data Engineer Transition
-├─ Apply to DE roles with 18-24mo engineering experience
-├─ Strong portfolio (projects + certs + real job experience)
-├─ Solid coding foundation from Junior SWE/Platform role
-└─ Target: £60k-£75k DE offer
+Mid-2027: Data Engineer Search
+├─ Portfolio: 1-2 years engineering + 3 certs + 6 projects
+├─ Positioning: "Strong engineer who specializes in data"
+└─ Target: £75k-£85k Data Engineer role
+
+**SCENARIO B: Cloud Support or Stay at MSP**
+Jan 2026 - July 2026: Execute Core Plan
+├─ Study: 10-13 hrs/week (same as current)
+├─ Complete: All 6 projects + 3 certs
+└─ Launch: DE search July 2026 (£75k-£85k target)
 ```
 
-**Philosophy Update:**
-Better to spend 18-24 months becoming a STRONG engineer, then specialize in data, than to rush into 'Data Engineer' title in 9 months with shallow foundation.
+**Updated Philosophy:**
+> Better job target (Junior SWE/Platform) + extended timeline (18-24 months) = SAME learning goals with less pressure and professional mentorship.
+>
+> More time ≠ Fewer goals. More time = Same goals executed better with real-world experience.
 
 ---
 

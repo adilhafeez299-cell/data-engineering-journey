@@ -56,12 +56,14 @@ You now have seven complete, accurate, non-fabricated documents:
 **Your portfolio projects. All specifications. All real.**
 
 **UPDATED DECEMBER 2025:**
-- **Revised approach:** 3-4 quality projects (not 6 rushed)
-- Project 1: Python Automation Tool (complete by Jan 2026)
-- Project 2: Financial Dataset Analysis (SQL focus, 2026)
-- Project 3: Cloud-based Data Pipeline (AWS/Azure, 2026-2027)
-- Project 4: End-to-end Data Engineering Capstone (2027)
-- Timing flexible based on job demands and energy
+- **ALL 6 PROJECTS REQUIRED** (timing flexible based on job outcome)
+- Project 1: Python Automation Tool (Phase 1)
+- Project 2: Financial Dataset Analysis (Phase 2)
+- Project 3: AWS Data Pipeline (Phase 3)
+- Project 4: Databricks Medallion ETL (Phase 4)
+- Project 5: ML Classification Pipeline (Phase 4)
+- Project 6: Capstone – Commodity Price Monitoring System (Weeks 25-36)
+- Timing: 9 months if Core Plan, 18-24 months if Extended Plan (less rushed)
 
 **When to use:**
 - When starting a new project: Read that project's full spec
@@ -319,11 +321,10 @@ By using these seven documents consistently for 18-24 months, you will:
 
 ✅ **By Jan 2026:** Secure Junior SWE/Platform Engineer role (£38k-£50k)
 ✅ **Jan 2026-Jul 2027:** Learn engineering properly on the job (40hrs/week paid learning)
-✅ **Weekends 2026-2027:** Build data-specific skills (SQL, cloud, data tools)
+✅ **Weekends 2026-2027:** Build data-specific skills (SQL, cloud, data tools - still 10-13 hrs/week)
 ✅ **Mid-2027:** Position yourself for Data Engineer roles with REAL experience
-✅ **Portfolio:** 3-4 quality projects showing engineering + data skills
-✅ **Certifications:** 1-2 targeted certs complementing job experience
-✅ **Outcome:** Strong chance at £60k-£75k Data Engineer offer by mid-2027
+✅ **Portfolio:** All 6 projects + 3 certifications (completed over 18-24 months, less rushed)
+✅ **Outcome:** Strong chance at £75k-£85k Data Engineer offer by mid-2027
 
 **This is not guaranteed.** Life happens, markets change, luck plays a role.
 

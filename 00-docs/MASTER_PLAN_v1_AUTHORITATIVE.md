@@ -221,62 +221,47 @@ Transform from Systems Engineer to Data Engineer through strategic two-phase app
 
 ## TIMELINE FLEXIBILITY
 
-**Original Plan:** 9 months (Nov 2025 → July 2026)
+**Core Plan (Original):** 9 months (Nov 2025 → July 2026)
+- Complete all learning phases
+- Earn all 3 certifications
+- Build all 6 projects
+- Launch Data Engineer search July 2026
+- Target: £75k-£85k Data Engineer role
 
-**Updated Philosophy:** 18-24 months (Nov 2025 → mid-2026 to mid-2027)
+**Extended Plan (If you land Junior SWE/Platform role):** 18-24 months (Nov 2025 → Mid-2027)
+- Work full-time in engineering role (Jan 2026 onward)
+- Continue weekend DE learning in parallel (10-13 hrs/week)
+- Complete same 6 projects, same 3 certs (just less rushed)
+- Build dual expertise: General engineering + Data engineering
+- Launch DE search mid-2027
+- Target: £75k-£85k Data Engineer role (stronger candidate)
 
-**Why the change:**
-- Better to spend 1-2 years becoming a STRONG engineer in a good role
-- Then specialize in data engineering from solid foundation
-- Rushing to "Data Engineer" title in 9 months = shallow skills
-- Strong foundation now = better DE candidate later
+**Why Extended Timeline is BETTER (not easier):**
+1. Professional mentorship in engineering role (paid learning)
+2. Real production experience (40 hrs/week)
+3. Less weekend study pressure (same goals, more time)
+4. Stronger DE candidate in 2027:
+   - 1-2 years engineering experience
+   - 3 data engineering certifications
+   - 6 portfolio projects
+   - Proven ability to code professionally
 
-**What this means:**
-- Learning plan remains the same (all phases, projects, certs)
-- Job search targets Junior SWE/Platform roles (not just stepping stones)
-- Timeline extends if you land good engineering role
-- Skills matter more than speed to title
+**What Changes Between Plans:**
+- ✅ Job search target (Junior SWE/Platform > Cloud Support)
+- ✅ Timeline pressure (less rushed, same outcome)
+- ✅ On-the-job learning (40 hrs/week paid experience)
 
-**Your Timeline at a Glance:**
+**What DOESN'T Change:**
+- ❌ Study hours (still 10-13/week on weekends)
+- ❌ Projects (still all 6)
+- ❌ Certifications (still all 3)
+- ❌ Salary target (still £75k-£85k for DE role)
+- ❌ Learning content (same phases, resources, skills)
 
-**Learning Track (Continues as Planned):**
-```
-Nov 2025: Python Foundations (4 weeks)
-├─ W1: ✅ Complete (25%)
-├─ W2: 📍 In Progress (target 50%)
-├─ W3: Project 1 planning
-└─ W4: Project 1 complete + recovery week
-
-Dec 2025 onwards: Continue learning progression
-├─ SQL & Data Analysis
-├─ AWS & Cloud
-├─ Databricks + Capstone
-└─ All 6 projects + 3 certifications
-```
-
-**Job Search Track (Updated):**
-```
-Nov-Dec 2025: Junior SWE/Platform Engineer search
-├─ W2-3: Applications + networking
-├─ W4-6: Follow-ups + interviews
-└─ Target: Offer by Jan 2026
-
-Jan 2026 - Mid-2027: Engineering Role (18-24 months)
-├─ Learn to code properly (40hrs/week paid)
-├─ Build strong foundation
-├─ Continue learning track on weekends (5-8hrs/week)
-├─ Complete projects and certifications
-└─ Become strong engineer with DE specialization
-
-Mid-2027: Data Engineer Transition
-├─ Apply to DE roles with 18-24mo engineering experience
-├─ Strong portfolio (projects + certs + real job experience)
-├─ Solid coding foundation from Junior SWE/Platform role
-└─ Target: £60k-£75k DE offer
-```
-
-**Philosophy Update:**
-Better to spend 18-24 months becoming a STRONG engineer, then specialize in data, than to rush into 'Data Engineer' title in 9 months with shallow foundation.
+**Decision Point:** January 2026
+- If Junior SWE/Platform offer: Accept, switch to Extended Plan
+- If only Cloud Support offers: Execute Core Plan as originally designed
+- Either way: Complete all projects, certifications, and learning goals
 
 ---
 

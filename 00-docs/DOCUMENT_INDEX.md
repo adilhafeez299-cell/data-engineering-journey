@@ -5,18 +5,12 @@
 **Status:** Active and Authoritative
 **Location:** 00-docs/
 
-> Strategy Update (December 2025 - Authoritative)
-> - **REVISED TIMELINE:** 18-24 months (Nov 2025 → Jul 2027)
-> - **Phase 1:** Engineering Fundamentals (Nov 2025 - Jan 2026)
->   - Target: Junior Software Engineer / Platform Engineer role by Jan 2026
->   - Focus: Python fundamentals + Project 1 + job applications
-> - **Phase 2:** On-the-Job Learning (Jan 2026 - Jul 2027)
->   - 18-24 months in engineering role (40hrs/week paid learning)
->   - Weekend supplements: SQL, data tools, cloud certifications (5-8hrs/week)
-> - **Phase 3:** Data Engineer Transition (Mid-2027)
->   - Apply to Data Engineer roles with real experience
->   - Target: £60k-£75k (realistic with 18-24mo experience)
-> - **Why Changed:** Build strong foundation with mentorship vs. rushed weekend self-study
+> Alignment Update (Authoritative)
+> - 36-week core plan OR 18-24 month extended plan (see MASTER_PLAN for details)
+> - Learning content UNCHANGED: All 6 projects, all 3 certifications, 10-13 hrs/week
+> - Job search updated: Junior SWE/Platform Engineer priority (not Cloud Support)
+> - Timeline flexibility: If good engineering role secured, stay 1-2 years before DE search
+> - Same end goal: £75k-£85k Data Engineer role (stronger candidate if extended timeline)
 
 ---
 
@@ -35,12 +29,13 @@ Contains:
 - Detailed breakdown of each phase:
   - Learning goals (job learning + weekend supplements)
   - Resources (verified, no fabrication)
-  - Projects (3-4 quality projects, not 6 rushed)
+  - Projects (all 6 projects, spaced better if extended timeline)
   - Timeline targets
   - Success criteria
-- Certifications (1-2 targeted, not 3 rushed):
-  - AWS Certified Developer/Solutions Architect (during job, 2026)
-  - Optional: Databricks Associate (if time permits, 2027)
+- Certifications (all 3 required):
+  - AWS Certified Data Engineer – Associate (May 2026)
+  - Databricks Data Engineer Associate (June 2026)
+  - Databricks Data Engineer Professional (July 2026)
 - Contingency plans
 - Your commitment statement
 
@@ -85,7 +80,7 @@ Use this for:
 Your portfolio projects. Complete specifications.
 
 Contains:
-- **UPDATED APPROACH:** 3-4 quality projects (not 6 rushed)
+- **ALL 6 PROJECTS REQUIRED** (timing flexible based on job outcome)
 
 **Immediate Focus (Nov 2025 - Jan 2026):**
 - Project 1: Python Automation Tool
@@ -94,12 +89,15 @@ Contains:
   - Requirements, deliverables, success criteria
   - GitHub repo structure
 
-**Future Projects (During Engineering Role, 2026-2027):**
-- Project 2: Financial Dataset Analysis (SQL focus, 2026)
-- Project 3: Cloud-based Data Pipeline (AWS/Azure, 2026-2027)
-- Project 4: End-to-end Data Engineering Capstone (2027)
+**All 6 Projects:**
+- Project 1: Python Automation Tool (Phase 1)
+- Project 2: Financial Dataset Analysis (Phase 2)
+- Project 3: AWS Data Pipeline (Phase 3)
+- Project 4: Databricks Medallion ETL (Phase 4)
+- Project 5: ML Classification Pipeline (Phase 4)
+- Project 6: Capstone – Commodity Price Monitoring System (Weeks 25-36)
 
-**Note:** Projects 2-4 timing flexible based on job demands. Original 6-project plan was overly ambitious.
+**Note:** All 6 projects required. Timing flexible: 9 months if Core Plan, 18-24 months if Extended Plan (less rushed).
 
 **For each project:**
 - Clear overview and problem statement

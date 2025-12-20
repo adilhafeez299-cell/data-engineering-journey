@@ -3,20 +3,39 @@
 
 ---
 
+## IMPORTANT: Core Learning Plan Unchanged
+
+**Job Search Strategy Updated:** Junior SWE/Platform Engineer priority (not Cloud Support)
+
+**Learning Plan Unchanged:** All weeks, hours, projects, and certifications remain as originally planned.
+
+**Why:** Better job target + more time = same goals executed with less pressure (not fewer goals).
+
+**Study Hours:** Still 10-13 hours/week on weekends (even if you land engineering role)
+
+---
+
 ## STRATEGY UPDATE (December 2025)
 
 **Original Plan:** 36-week sprint to Data Engineer by Aug 2026
-**Revised Plan:** Engineering foundation → Data Engineer specialization by mid-2027
+**Revised Strategy:** Engineering foundation → Data Engineer specialization (with flexibility)
 
 **What Changed:**
 - Priority: Secure Junior Software Engineer / Platform Engineer role by Jan 2026
-- Timeline: 18-24 months in engineering role, then transition to Data Engineer
-- Learning: Job experience (40hrs/week) + weekend supplements (5-8hrs/week)
-- Focus: Build strong foundation, not rush to title
+- Timeline: Flexible 9-24 months depending on job outcome
+- Job target: Engineering roles > Cloud Support roles
+- Focus: Build strong foundation with professional mentorship
+
+**What DIDN'T Change:**
+- Study hours: Still 10-13 hrs/week on weekends
+- Projects: Still all 6 projects
+- Certifications: Still all 3 certifications
+- Learning content: Same phases, resources, skills
+- Salary target: Still £75k-£85k for DE role
 
 **This document now covers:**
 - Weeks 1-8: Python fundamentals + engineering job applications (Nov 2025 - Jan 2026)
-- Post-Jan 2026: On-the-job learning (see MASTER_PLAN for 18-month roadmap)
+- Post-Jan 2026: Continue same learning plan (see MASTER_PLAN for details)
 
 ---
 

@@ -55,6 +55,34 @@ After reviewing actual job roles and reflecting on goals:
 - **Strategy:** Stay in good engineering role 1-2 years if found
 - **Success Metric:** Becoming a STRONG engineer who happens to specialize in data > getting "Data Engineer" title quickly with weak skills
 
+### Critical Clarification: Extended Timeline ≠ Reduced Goals
+
+**WRONG Interpretation:**
+- "18-24 months = I can relax and do less"
+- "I'll reduce certifications because I have more time"
+- "3-4 projects is enough instead of 6"
+
+**CORRECT Interpretation:**
+- "18-24 months = I can do the SAME plan with less stress"
+- "All 3 certifications PLUS 1-2 years engineering experience = stronger candidate"
+- "All 6 projects spaced over 18 months = better quality, same outcome"
+
+**The Math:**
+- Core Plan: 10-13 hrs/week × 36 weeks = 360-470 hours self-study → £75k-£85k DE role
+- Extended Plan: (40 hrs/week engineering job × 52 weeks) + (10-13 hrs/week self-study × 72 weeks) = 2,080 paid + 720-936 self = 2,800-3,016 total hours → SAME £75k-£85k DE role
+
+**Extended plan = MORE experience, not LESS work.**
+
+### What Stays Non-Negotiable
+
+Regardless of timeline (9 months or 24 months):
+- ✅ All 3 certifications (2 Databricks + AWS Data Engineer)
+- ✅ All 6 projects (spaced better if extended timeline)
+- ✅ 10-13 hours/week weekend study (even if working engineering job)
+- ✅ £75k-£85k salary target for Data Engineer role
+- ✅ Same learning phases (Python → SQL → AWS → Databricks)
+- ✅ Same resources (Bogdan, Mode Analytics, Databricks Academy, AWS)
+
 ### 1. Strategic Application
 - Apply to roles that match 70%+ of requirements
 - Customize each application (no mass applying)
