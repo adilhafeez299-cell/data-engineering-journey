@@ -1,7 +1,8 @@
 # YOUR AUTHORITATIVE PLAN SYSTEM
-## Five Documents. One Career Transition. Let's Go.
+## Seven Documents. One Career Transition. Let's Go.
 
-**Created:** November 18, 2025  
+**Created:** November 18, 2025
+**Updated:** December 2025 (Strategy Revised)
 **Status:** Active (All other versions are deprecated)
 
 ---
@@ -13,10 +14,16 @@ You now have seven complete, accurate, non-fabricated documents:
 ### Core 1. **MASTER_PLAN_v1_AUTHORITATIVE.md**
 **Your strategic roadmap. Read this once, reference always.**
 
-- Complete overview of your 36-week transition (weeks run Sat–Fri)
-- 4 phases explained (Python Foundations → SQL Mastery → AWS & Cloud → Databricks + Capstone)
+**UPDATED DECEMBER 2025:**
+- Complete overview of your 18-24 month transition (Nov 2025 → Jul 2027)
+- 3 phases explained:
+  - Phase 1: Engineering Fundamentals + Job Applications (Nov 2025 - Jan 2026)
+  - Phase 2: On-the-Job Learning + Weekend Supplements (Jan 2026 - Jul 2027)
+  - Phase 3: Data Engineer Transition (Mid-2027)
 - Dual-track strategy (job search + learning) clearly laid out
-- All 3 certifications with exam details
+- Target: Junior SWE/Platform Engineer by Jan 2026, Data Engineer by Jul 2027
+- Certifications: 1-2 targeted (not 3 rushed)
+- Projects: 3-4 quality builds (not 6 rushed)
 - Contingency plans for when life happens
 - Your non-negotiable commitment
 
@@ -29,28 +36,32 @@ You now have seven complete, accurate, non-fabricated documents:
 ### Core 2. **WEEK_BY_WEEK_EXECUTION_v1_AUTHORITATIVE.md**
 **Your detailed playbook. Your actual weekly guide.**
 
-- Weeks 1-36 broken down day-by-day (Sat–Fri week boundary)
+**UPDATED DECEMBER 2025:**
+- Weeks 1-8 broken down day-by-day (Nov 2025 - Jan 2026 focus)
 - Specific hours allocated to specific activities
 - Monday = Gym only (recovery), Tuesday = Study 1-1.5 hrs, etc.
-- What to do Saturday 9:00-10:00 AM (Gym), 10:15 AM-1:15 PM (Study block 1)
-- Job search tasks scheduled alongside learning
+- Job search tasks: Junior SWE/Platform Engineer applications
+- Project 1 milestones
 - Weekly check-in template to report progress
+- Post-Jan 2026: On-the-job learning (see MASTER_PLAN Phase 2)
 
 **When to use:**
-- Every Monday morning: Read that week's plan
+- Every Monday morning: Read that week's plan (Weeks 1-8)
 - Every day: Check off completed tasks
 - When unsure: Look at the specific day's breakdown
-- Sunday evening: Use the check-in template to report progress
+- Friday evening: Use the check-in template to report progress
+- After Jan 2026: Reference MASTER_PLAN for on-the-job learning roadmap
 
 ### Core 3. **PROJECT_LIBRARY_v1_AUTHORITATIVE.md**
-**Your 6 projects. All specifications. All real.**
+**Your portfolio projects. All specifications. All real.**
 
-- Project 1: Python Automation Tool (Nov-Dec)
-- Project 2: Financial Dataset Analysis (Dec-Jan)
-- Project 3: AWS Data Pipeline (Mar–May)
-- Project 4: Databricks Medallion ETL (May–Jun)
-- Project 5: ML Classification Pipeline (Jun–Jul)
-- Project 6: CAPSTONE – Commodity Price Monitoring System (Weeks 25–36, May 17–Aug 3)
+**UPDATED DECEMBER 2025:**
+- **Revised approach:** 3-4 quality projects (not 6 rushed)
+- Project 1: Python Automation Tool (complete by Jan 2026)
+- Project 2: Financial Dataset Analysis (SQL focus, 2026)
+- Project 3: Cloud-based Data Pipeline (AWS/Azure, 2026-2027)
+- Project 4: End-to-end Data Engineering Capstone (2027)
+- Timing flexible based on job demands and energy
 
 **When to use:**
 - When starting a new project: Read that project's full spec
@@ -137,55 +148,59 @@ Monday Morning (5 min):
 
 ---
 
-## YOUR REALITY CHECK
+## YOUR REALITY CHECK (UPDATED DECEMBER 2025)
 
 ### What's Real About This Plan
-✅ Your current job (MSP, £35k)  
-✅ Your gym schedule (5-6 days/week—non-negotiable)  
-✅ Your work hours (9-6 PM)  
-✅ Your weekend availability (4-5 hours Sat, 4-5 hours Sun)  
-✅ Your goal (Data Engineer, £75k-£85k by July 2026)  
-✅ Your dual-track strategy (job search + learning parallel)  
-✅ Your learning resources (Bogdan, Mode Analytics, Databricks Academy, AWS)  
-✅ Your certifications (real exams, real requirements)  
-✅ Your timeline (9 months, achievable)  
+✅ Your current job (MSP, £35k)
+✅ Your gym schedule (5-6 days/week—non-negotiable)
+✅ Your work hours (9-6 PM)
+✅ Your weekend availability (4-5 hours Sat, 4-5 hours Sun)
+✅ **REVISED GOAL:** Junior SWE/Platform Engineer by Jan 2026 (£38k-£50k), then Data Engineer by mid-2027 (£60k-£75k)
+✅ Your dual-track strategy (job search + learning parallel)
+✅ Your learning resources (Bogdan Python, then on-the-job learning)
+✅ Your certifications (1-2 targeted, not 3 rushed)
+✅ **REVISED TIMELINE:** 18-24 months (Nov 2025 → Jul 2027), more sustainable  
 
 ### What's Uncertain (But Planned For)
-⚠️ Will you get stepping-stone job offer? (Plan assumes yes, contingency if no)  
-⚠️ Will you pass all certs on first try? (Retake buffers built in)  
-⚠️ Will you land Data Engineer offer by July? (Timeline is achievable, not guaranteed)  
-⚠️ What if life happens? (Contingency plans included)  
+⚠️ Will you get Junior SWE/Platform Engineer offer by Jan 2026? (Realistic, but not guaranteed)
+⚠️ Will you get Data Engineer offer by Jul 2027? (Much more likely with 18-24mo experience)
+⚠️ Will you pass certs on first try? (Retake buffers built in)
+⚠️ What if life happens? (Contingency plans included, timeline is flexible)  
 
 ### What Will Determine Success
-1. **Consistency** (showing up every weekend)
-2. **Focus** (one thing at a time, no distractions)
-3. **Follow-through** (finishing projects, not abandoning them)
-4. **Honesty** (real check-ins, admitting when behind)
-5. **Flexibility** (adjusting intelligently when needed)
+1. **Consistency** (showing up every weekend, Nov 2025 - Jan 2026)
+2. **Securing engineering role** (Junior SWE/Platform Engineer by Jan 2026)
+3. **On-the-job learning** (applying yourself fully in new role, 40hrs/week)
+4. **Weekend supplements** (5-8hrs/week data skills, 2026-2027)
+5. **Patience** (18-24 months to build strong foundation, not rushing)
+6. **Flexibility** (adjusting intelligently when needed)
 
 ---
 
 ## WHAT NOT TO DO
 
 ### ❌ DON'T
-- Read all 26 weeks at once (you'll get overwhelmed)
+- Read all weeks at once (focus on current week only)
 - Add new courses mid-phase (breaks focus)
 - Skip recovery weeks (they're part of the strategy)
 - Copy-paste code from tutorials (defeats the purpose)
 - Polish projects endlessly (working > perfect)
 - Expect to work weeknights + weekends (you'll burn out)
 - Ignore the check-in template (accountability matters)
-- Adjust the plan every week (one monthly review is enough)
-- Apply to Data Engineer jobs before May 2026 (wrong time)
+- **Apply to Cloud Support roles if you can get engineering roles** (lateral move vs. career growth)
+- **Apply to Data Engineer jobs before mid-2027** (need 18-24mo engineering experience first)
+- **Rush the timeline** (9-month sprint was too aggressive, 18-24mo is sustainable)
 
 ### ✅ DO
-- Read only your current week
-- Focus on one phase at a time
-- Code everything yourself
-- Build imperfect projects fast
+- Read only your current week (Weeks 1-8 focus now)
+- Code everything yourself (no copy-paste)
+- Complete Project 1 by Jan 2026
+- Apply to Junior SWE/Platform Engineer roles (5-10 quality applications)
 - Take recovery weeks seriously
-- Report honestly on Sunday evenings
+- Report honestly on Friday evenings
 - Ask for help when stuck >30 minutes
+- **Prioritize engineering roles over support roles** (career trajectory matters)
+- **Be patient with 18-24 month timeline** (sustainable > rushed)
 - Trust the process
 - Show up consistently
 
@@ -298,20 +313,23 @@ If you're at 80%+ of targets, you're on track. If <60%, let's adjust.
 
 ---
 
-## YOUR COMMITMENT
+## YOUR COMMITMENT (REVISED DECEMBER 2025)
 
-By using these three documents consistently for 26 weeks, you will:
+By using these seven documents consistently for 18-24 months, you will:
 
-✅ Learn Python, SQL, PySpark, AWS fundamentals  
-✅ Earn 3 industry certifications  
-✅ Build 6 portfolio projects  
-✅ Develop job search strategy  
-✅ Position yourself for Data Engineer roles  
-✅ Have real chance at £75k-£85k offer by July 2026  
+✅ **By Jan 2026:** Secure Junior SWE/Platform Engineer role (£38k-£50k)
+✅ **Jan 2026-Jul 2027:** Learn engineering properly on the job (40hrs/week paid learning)
+✅ **Weekends 2026-2027:** Build data-specific skills (SQL, cloud, data tools)
+✅ **Mid-2027:** Position yourself for Data Engineer roles with REAL experience
+✅ **Portfolio:** 3-4 quality projects showing engineering + data skills
+✅ **Certifications:** 1-2 targeted certs complementing job experience
+✅ **Outcome:** Strong chance at £60k-£75k Data Engineer offer by mid-2027
 
 **This is not guaranteed.** Life happens, markets change, luck plays a role.
 
-**But you will have given yourself the best possible chance.**
+**But this approach is MORE sustainable and MORE likely to succeed than the 9-month sprint.**
+
+Why? You're building **genuine competence** with **professional mentorship**, not just weekend self-study.
 
 And the skills you build? They're **yours forever.**
 
@@ -365,7 +383,8 @@ Let's go. 💪
 
 ---
 
-**Version:** 1.0 - Single Source of Truth  
-**Created:** November 18, 2025  
-**Status:** Active  
-**Your Next Milestone:** Sunday, November 17, 2025 (Week 2 check-in)
+**Version:** 1.1 - Revised Strategy (Engineering Foundation Track)
+**Created:** November 18, 2025
+**Updated:** December 2025 (Strategy revision)
+**Status:** Active
+**Your Next Milestone:** Friday, December 5, 2025 (Week 2 check-in)

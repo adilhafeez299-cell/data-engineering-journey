@@ -1,70 +1,83 @@
 # 🎯 YOUR COMPLETE PLAN IS READY
 
-**Date:** November 23, 2025  
-**Status:** Week 1 In Progress (Nov 22-28)  
-**Current:** Bogdan Python ~24-25% → Target 30% by Friday  
+**Date:** November 23, 2025
+**Updated:** December 2025 (Strategy Revised)
+**Status:** Week 2 In Progress (Nov 29 - Dec 5)
+**Current:** Bogdan Python ~30% → Target 50% by Friday
+**Job Search:** 3 engineering applications submitted (Junior SWE/Platform Engineer)  
 
 ---
 
 ## WHAT YOU NOW HAVE
 
-✅ **FIVE COMPLETE DOCUMENTS** (all in `00-Project-Markdown/`)
+✅ **SEVEN COMPLETE DOCUMENTS** (all in `00-docs/`)
 
-1. **MASTER_PLAN_v1_AUTHORITATIVE.md** (40+ pages)
-   - Your 36-week strategic roadmap
-   - All 4 phases detailed
-   - 3 certifications with real exam details
-   - 6 portfolio projects outlined
+1. **MASTER_PLAN_v1_AUTHORITATIVE.md** (UPDATED - Dec 2025)
+   - Your 18-24 month strategic roadmap (REVISED from 9 months)
+   - 3 phases: Engineering Fundamentals → On-the-Job Learning → DE Transition
+   - Timeline Flexibility section added
+   - Target: Junior SWE/Platform Engineer by Jan 2026, Data Engineer by mid-2027
+   - 1-2 targeted certifications (not 3 rushed)
+   - 3-4 quality projects (not 6 rushed)
    - Contingency plans
-   - Your commitment statement
 
-2. **WEEK_BY_WEEK_EXECUTION_v1_AUTHORITATIVE.md** (80+ pages)
-   - Weeks 1-36 broken down day-by-day
-   - Specific hours for specific activities
-   - Weeks 1-13 fully detailed
-   - Weeks 14-26 framework summary
-   - Job search integrated throughout
+2. **WEEK_BY_WEEK_EXECUTION_v1_AUTHORITATIVE.md** (UPDATED - Dec 2025)
+   - Weeks 1-8 broken down day-by-day (Nov 2025 - Jan 2026 focus)
+   - Job search: Junior SWE/Platform Engineer applications
+   - Post-Jan 2026: On-the-job learning (see MASTER_PLAN Phase 2)
    - Weekly check-in template
 
-3. **PROJECT_LIBRARY_v1_AUTHORITATIVE.md** (50+ pages)
-   - All 6 projects fully specified
+3. **PROJECT_LIBRARY_v1_AUTHORITATIVE.md** (UPDATED - Dec 2025)
+   - 3-4 quality projects (revised from 6)
+   - Immediate: Project 1 (Python Automation Tool)
+   - Future: Projects 2-4 during engineering role (2026-2027)
    - Requirements, deliverables, success criteria
    - GitHub repo structure for each
-   - Estimated time for each
-   - Real tech stacks (no fabrication)
 
-4. **HOW_TO_USE_YOUR_PLANS.md** (10 pages)
+4. **DOCUMENT_INDEX.md** (UPDATED - Dec 2025)
+   - Quick reference guide
+   - Updated with revised timeline and strategy
+   - What each document contains
+   - At-a-glance summary table
+
+5. **HOW_TO_USE_YOUR_PLANS.md** (UPDATED - Dec 2025)
    - How to use these documents together
    - Daily, weekly, monthly workflows
+   - REVISED strategy overview
    - FAQ and contingencies
-   - Quick reference table
 
-5. **DOCUMENT_INDEX.md** (10 pages)
-   - Quick reference guide
-   - What each document contains
-   - When to use each one
-   - At-a-glance summary table
+6. **FOLDER_STRUCTURE_GUIDE.md**
+   - Repository organization guide
+   - What goes where as you learn
+   - Phase-by-phase folder filling timeline
+
+7. **NEW_CHAT_STARTER_GUIDE.md**
+   - Claude calibration tool
+   - Quick context template for new conversations
+   - Anti-spiral reminders
+   - Success metrics by phase
 
 ---
 
 ## WHAT'S ACCURATE (VERIFIED)
 
-✅ Your job: Systems Engineer at MSP (£35k)  
-✅ Your gym schedule: 5-6 days/week (non-negotiable)  
-✅ Your work hours: 9 AM-6 PM  
-✅ Your available study time: 10-13 hours/week (weekends primarily)  
-✅ Your goal: Data Engineer at £75k-£85k by July 2026  
+✅ Your job: Systems Engineer at MSP (£35k)
+✅ Your gym schedule: 5-6 days/week (non-negotiable)
+✅ Your work hours: 9 AM-6 PM
+✅ Your available study time: 10-13 hours/week (weekends primarily)
+✅ **REVISED GOAL:** Junior SWE/Platform Engineer by Jan 2026 (£38k-£50k), then Data Engineer by mid-2027 (£60k-£75k)
 ✅ Your learning resources:
   - Bogdan Python Course (O'Reilly)
-  - Mode Analytics SQL Tutorial (FREE)
-  - Databricks Academy (official courses)
-  - AWS official study materials
-✅ Your timeline: 36 weeks (Nov 2025 → Aug 2026)  
-✅ Your dual-track strategy: Job search + Learning in parallel  
-✅ Your three certifications:
-  - Databricks Certified Data Engineer Associate (June 2026, Week 30)
-  - Databricks Certified Data Engineer Professional (July 2026, Week 34)
-  - AWS Certified Data Engineer – Associate (May 2026)
+  - On-the-job learning (40hrs/week, Jan 2026 onwards)
+  - Weekend supplements: SQL, cloud, data tools (2026-2027)
+✅ **REVISED TIMELINE:** 18-24 months (Nov 2025 → Jul 2027)
+✅ Your dual-track strategy: Job search (Junior SWE/Platform Engineer) + Learning in parallel
+✅ **REVISED CERTIFICATIONS:** 1-2 targeted (not 3 rushed)
+  - AWS Certified Developer/Solutions Architect (during job, 2026)
+  - Optional: Databricks Associate (if time permits, 2027)
+
+**Philosophy Update:**
+Better to spend 18-24 months becoming a STRONG engineer, then specialize in data, than to rush into 'Data Engineer' title in 9 months with shallow foundation.
 
 ---
 
@@ -206,44 +219,46 @@ Questions or blockers:
 
 ---
 
-## YOUR TIMELINE AT A GLANCE
+## YOUR TIMELINE AT A GLANCE (REVISED DECEMBER 2025)
 
+**Learning Track (Continues as Planned):**
 ```
 Nov 2025: Python Foundations (4 weeks)
-│├─ W1: ✅ Complete (25%)
-│├─ W2: 📍 In Progress (target 50%)
-│├─ W3: Project 1 planning
-│└─ W4: Project 1 complete + recovery week
+├─ W1: ✅ Complete (25%)
+├─ W2: 📍 In Progress (target 50%)
+├─ W3: Project 1 planning
+└─ W4: Project 1 complete + recovery week
 
-Dec 2025: SQL & Data Analysis (4 weeks)
-│├─ W5-6: SQL learning
-│├─ W7: SQL advanced + Project 2 start
-│└─ W8: Holiday recovery + Project 2 complete
-
-Jan 2026: SQL Mastery (Weeks 9-16)
-│├─ W9-13: SQL Basics to Advanced (Mode Analytics)
-│├─ W14-15: Project 2 (Financial Analysis)
-│└─ W16: Recovery + Buffer
-
-Mar-Apr 2026: AWS & Cloud (Weeks 17-24)
-│└─ Project 3 (Medallion ETL) ongoing
-
-Mar 2026: AWS & ML (6 weeks)
-│├─ W17-19: AWS course + Project 4 planning
-│├─ W20-22: AWS cert sprint + Projects 4-5
-│└─ Exam week → AWS CERTIFIED ✅
-
-Apr-May 2026: Capstone + Job Search Launch (5 weeks)
-│├─ W23-26: Capstone project work
-│└─ W26: Job search launches
-
-May-Jul 2026: Active Job Search (10 weeks)
-│├─ W27-36: Applications + interviews
-│└─ Jul 28: Target offer accepted ✅
-
-Aug 2026: Transition
-└─ Start new Data Engineer role ✅
+Dec 2025 onwards: Continue learning progression
+├─ SQL & Data Analysis
+├─ AWS & Cloud
+├─ Databricks + Capstone
+└─ All 6 projects + 3 certifications
 ```
+
+**Job Search Track (Updated):**
+```
+Nov-Dec 2025: Junior SWE/Platform Engineer search
+├─ W2-3: Applications + networking
+├─ W4-6: Follow-ups + interviews
+└─ Target: Offer by Jan 2026
+
+Jan 2026 - Mid-2027: Engineering Role (18-24 months)
+├─ Learn to code properly (40hrs/week paid)
+├─ Build strong foundation
+├─ Continue learning track on weekends (5-8hrs/week)
+├─ Complete projects and certifications
+└─ Become strong engineer with DE specialization
+
+Mid-2027: Data Engineer Transition
+├─ Apply to DE roles with 18-24mo engineering experience
+├─ Strong portfolio (projects + certs + real job experience)
+├─ Solid coding foundation from Junior SWE/Platform role
+└─ Target: £60k-£75k DE offer
+```
+
+**Philosophy Update:**
+Better to spend 18-24 months becoming a STRONG engineer, then specialize in data, than to rush into 'Data Engineer' title in 9 months with shallow foundation.
 
 ---
 
@@ -372,13 +387,16 @@ Together = Career transformation.
 
 ---
 
-**Created:** November 18, 2025  
-**Status:** Week 1 In Progress  
-**Your Next Milestone:** Friday, November 28, 2025 (Week 1 check-in)  
+**Created:** November 18, 2025
+**Updated:** December 2025 (Strategy Revised)
+**Status:** Week 2 In Progress
+**Your Next Milestone:** Friday, December 5, 2025 (Week 2 check-in)
 
-You've got 26 weeks to change your career.  
-You've got a solid plan.  
-You've got the resources.  
-You've got accountability.  
+You've got 18-24 months to build a STRONG engineering career.
+You've got a revised, sustainable plan.
+You've got the resources.
+You've got accountability.
+
+Better to build deep competence than rush to a title.
 
 **Now go code something. 💪**

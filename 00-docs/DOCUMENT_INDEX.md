@@ -2,18 +2,21 @@
 ## Your Complete Career Transition Plan System
 
 **As of:** November 23, 2025  
-**Status:** Active and Authoritative  
-**Location:** 00-Project-Markdown/
+**Status:** Active and Authoritative
+**Location:** 00-docs/
 
-> Alignment Update (Authoritative)
-> - 36-week plan starting Week 1 = Nov 22–28, 2025 (weeks run Sat–Fri)
-> - 4 Phases total:
->   1) Phase 1: Python Foundations (Weeks 1–8, Nov 22–Jan 12)
->   2) Phase 2: SQL Mastery (Weeks 9–16, Jan 18–Mar 9)
->   3) Phase 3: AWS & Cloud (Weeks 17–24, Mar 15–May 10)
->   4) Phase 4: Databricks + Capstone (Weeks 25–36, May 17–Aug 3)
-> - AWS DE Associate: May 2026 (Week 24, target May 10, 2026)
-> - Capstone name: Commodity Price Monitoring System (Weeks 25–36)
+> Strategy Update (December 2025 - Authoritative)
+> - **REVISED TIMELINE:** 18-24 months (Nov 2025 → Jul 2027)
+> - **Phase 1:** Engineering Fundamentals (Nov 2025 - Jan 2026)
+>   - Target: Junior Software Engineer / Platform Engineer role by Jan 2026
+>   - Focus: Python fundamentals + Project 1 + job applications
+> - **Phase 2:** On-the-Job Learning (Jan 2026 - Jul 2027)
+>   - 18-24 months in engineering role (40hrs/week paid learning)
+>   - Weekend supplements: SQL, data tools, cloud certifications (5-8hrs/week)
+> - **Phase 3:** Data Engineer Transition (Mid-2027)
+>   - Apply to Data Engineer roles with real experience
+>   - Target: £60k-£75k (realistic with 18-24mo experience)
+> - **Why Changed:** Build strong foundation with mentorship vs. rushed weekend self-study
 
 ---
 
@@ -23,24 +26,26 @@
 Your strategic roadmap. The big picture.
 
 Contains:
-- Executive summary (mission, approach, timeline)
+- Executive summary (mission, approach, REVISED timeline)
 - Dual-track strategy (job search + learning explained)
-- 4 phases (Python Foundations → SQL Mastery → AWS & Cloud → Databricks + Capstone)
+- **UPDATED:** 3 phases (Engineering Fundamentals → On-the-Job Learning → DE Transition)
+  - Phase 1: Python + Junior SWE/Platform Engineer applications (Nov 2025 - Jan 2026)
+  - Phase 2: 18-24 months engineering role + weekend data supplements (Jan 2026 - Jul 2027)
+  - Phase 3: Data Engineer job search (Mid-2027)
 - Detailed breakdown of each phase:
-  - Learning goals
+  - Learning goals (job learning + weekend supplements)
   - Resources (verified, no fabrication)
-  - Projects for each phase
-  - Weekly targets
+  - Projects (3-4 quality projects, not 6 rushed)
+  - Timeline targets
   - Success criteria
-- All 3 certifications with real details:
-  - Databricks Associate (June 2026, Week 30)
-  - Databricks Professional (July 2026, Week 34)
-  - AWS Data Engineer Associate (May 2026)
-- Contingency plans (if behind, if exam fails, if burnout, etc.)
+- Certifications (1-2 targeted, not 3 rushed):
+  - AWS Certified Developer/Solutions Architect (during job, 2026)
+  - Optional: Databricks Associate (if time permits, 2027)
+- Contingency plans
 - Your commitment statement
 
 Use this for:
-- Understanding the overall 36-week strategy
+- Understanding the overall 18-24 month strategy
 - Monthly reviews (am I on track?)
 - Reference when feeling lost (re-read your phase)
 - Decision-making (should I adjust?)
@@ -52,64 +57,49 @@ Use this for:
 Your detailed execution playbook. Your actual weekly schedule.
 
 Contains:
-- Weeks 1-36 broken down day-by-day (Sat–Fri weeks)
+- **UPDATED:** Weeks 1-8 focus only (Nov 2025 - Jan 2026)
 - For each day: specific hours, specific activities
-- Detailed breakdowns for early weeks; framework for later weeks
-- Job search integration (when to apply, who to connect with)
-- Project milestones aligned with learning
+- Detailed breakdowns for engineering job prep period
+- Job search integration (Junior SWE/Platform Engineer applications)
+- Project 1 milestones aligned with learning
 - Weekly check-in template
 - Recovery weeks scheduled
 
-Structure (Phases & Ranges):
-- PHASE 1: Python Foundations (Weeks 1–8, Nov 22–Jan 12)
-- PHASE 2: SQL Mastery (Weeks 9–16, Jan 18–Mar 9)
-- PHASE 3: AWS & Cloud (Weeks 17–24, Mar 15–May 10)
-  - Target: AWS DE Associate by Week 24 (May 10, 2026)
-- PHASE 4: Databricks + Capstone (Weeks 25–36, May 17–Aug 3)
-  - Capstone: Commodity Price Monitoring System
-  - Job search launches in Week 36
-  
+**REVISED Structure:**
+- Weeks 1-8: Python Foundations + Engineering Job Applications (Nov 22 - Jan 12)
+  - Target: 60-70% Bogdan Python completion
+  - Target: Project 1 complete
+  - Target: Engineering job offer by Jan 2026
+- Post-Jan 2026: On-the-job learning (see MASTER_PLAN for roadmap)
+
 Use this for:
-- Every Saturday morning: Read this week's plan
+- Every Monday morning: Read this week's plan (Weeks 1-8 only)
 - Every day: Follow the day-by-day breakdown
 - When unsure: Check the specific times and activities
 - Friday evening: Use the check-in template
+- After Jan 2026: Reference MASTER_PLAN Phase 2 for on-the-job learning approach
 
 ---
 
 ### 📚 Core 3. PROJECT_LIBRARY_v1_AUTHORITATIVE.md
-Your 6 portfolio projects. Complete specifications.
+Your portfolio projects. Complete specifications.
 
 Contains:
-- Project 1: Python Automation Tool (Phase 1)
+- **UPDATED APPROACH:** 3-4 quality projects (not 6 rushed)
+
+**Immediate Focus (Nov 2025 - Jan 2026):**
+- Project 1: Python Automation Tool
   - Options: File organizer, CSV analyzer, or log parser
+  - Complete by Jan 2026
   - Requirements, deliverables, success criteria
   - GitHub repo structure
-  
-- Project 2: Financial Dataset Analysis (Phase 2)
-  - Load data, write 20+ SQL queries, create visualizations
-  - Requirements, deliverables, success criteria
-  - GitHub repo structure
-  
-- Project 3: AWS Data Pipeline (Phase 3)
-  - Data lake + serverless ETL
-  - Requirements, deliverables, success criteria
-  - GitHub repo structure
-  
-- Project 4: Databricks Medallion ETL (Phase 4)
-  - Bronze → Silver → Gold architecture
-  - Requirements, deliverables, success criteria
-  - GitHub repo structure
-  
-- Project 5: ML Classification Pipeline (Phase 4)
-  - End-to-end ML model (fraud or credit risk)
-  - Requirements, deliverables, success criteria
-  - GitHub repo structure
-  
-- Project 6: CAPSTONE – Commodity Price Monitoring System (Weeks 25–36)
-  - End-to-end data platform and analytics
-  - Requirements, deliverables, success criteria
-  - GitHub repo structure
+
+**Future Projects (During Engineering Role, 2026-2027):**
+- Project 2: Financial Dataset Analysis (SQL focus, 2026)
+- Project 3: Cloud-based Data Pipeline (AWS/Azure, 2026-2027)
+- Project 4: End-to-end Data Engineering Capstone (2027)
+
+**Note:** Projects 2-4 timing flexible based on job demands. Original 6-project plan was overly ambitious.
 
 **For each project:**
 - Clear overview and problem statement
@@ -297,16 +287,22 @@ Contains:
 - [x] All resources verified (no fabrication)
 
 ### What's In Progress 📍
-- Week 1 of Phase 1 (Nov 22-28, 2025)
-- Bogdan Python course: ~24-25% → target 30% by Nov 28
-- CV/LinkedIn update pending
-- Job search target list pending
+- Week 2 of Python Fundamentals (Nov 29 - Dec 5, 2025)
+- Bogdan Python course: ~30% → target 50% by Dec 5
+- Job search: 3 engineering applications submitted (Junior SWE/Platform Engineer)
+  - Bauer Media Junior Software Engineer
+  - Alto/Houseful Platform Engineer
+  - Vertical Platform Engineer
+- Jack & Jill: Updated targeting (Junior SWE > Cloud Support)
+- Timeline: Refined to 18-24 months (sustainable path vs 9-month sprint)
 
 ### What's Next 🔜
-- Week 2: Continue Python progress, code every example
-- Weeks 3-4: Project 1 planning and build
-- Weeks 9-16: SQL Mastery + Project 2
-- Weeks 17-24: AWS & Cloud + Project 3 (cert by Week 24)
+- Weeks 2-4: Continue Python progress, code every example
+- Week 3: CV/LinkedIn update, build target company list
+- Weeks 4-6: Project 1 build
+- Weeks 3-8: Apply to 5-10 Junior SWE/Platform Engineer roles
+- Target: Engineering job offer by Jan 2026
+- Post-Jan 2026: On-the-job learning + weekend data supplements (see MASTER_PLAN)
 
 ---
 

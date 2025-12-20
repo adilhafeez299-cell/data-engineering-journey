@@ -1,5 +1,22 @@
 # WEEK-BY-WEEK EXECUTION PLAN
-## 36 Weeks: November 22, 2025 → August 3, 2026
+## REVISED: Engineering Foundation Track (Nov 2025 → Jan 2026 focus)
+
+---
+
+## STRATEGY UPDATE (December 2025)
+
+**Original Plan:** 36-week sprint to Data Engineer by Aug 2026
+**Revised Plan:** Engineering foundation → Data Engineer specialization by mid-2027
+
+**What Changed:**
+- Priority: Secure Junior Software Engineer / Platform Engineer role by Jan 2026
+- Timeline: 18-24 months in engineering role, then transition to Data Engineer
+- Learning: Job experience (40hrs/week) + weekend supplements (5-8hrs/week)
+- Focus: Build strong foundation, not rush to title
+
+**This document now covers:**
+- Weeks 1-8: Python fundamentals + engineering job applications (Nov 2025 - Jan 2026)
+- Post-Jan 2026: On-the-job learning (see MASTER_PLAN for 18-month roadmap)
 
 ---
 
@@ -22,14 +39,18 @@
 
 ---
 
-## RE-BASELINE NOTE (Authoritative)
-Starting November 22, 2025, weeks run Saturday → Friday. This file now tracks a 36-week plan aligned to the 4-phase structure:
-- Phase 1: Python Foundations (Weeks 1–8, Nov 22–Jan 12)
-- Phase 2: SQL Mastery (Weeks 9–16, Jan 18–Mar 9)
-- Phase 3: AWS & Cloud (Weeks 17–24, Mar 15–May 10)
-- Phase 4: Databricks + Capstone (Weeks 25–36, May 17–Aug 3)
+## CURRENT FOCUS: Engineering Fundamentals (Nov 2025 - Jan 2026)
 
-For legacy content below (earlier dated weeks), treat as reference only. Follow the CURRENT WEEK section here at the top.
+**Goal:** Prepare for Junior SWE/Platform Engineer interviews + complete Project 1
+
+**Learning Track:**
+- Python Foundations (Bogdan Course) - Target 60-70% by Jan 2026
+- Project 1: Python Automation Tool (complete by Jan 2026)
+- Git/GitHub practice, basic algorithms (interview prep)
+
+**Job Search Track:**
+- Nov-Dec: Apply to 5-10 Junior SWE/Platform Engineer roles
+- Target: Engineering offer by Jan 2026
 
 ---
 
@@ -75,47 +96,88 @@ For legacy content below (earlier dated weeks), treat as reference only. Follow 
 
 ---
 
-## WEEK 2 (Nov 29–Dec 5, 2025) - ESTABLISH RHYTHM
+## WEEK 2 (Nov 29–Dec 5, 2025) - ESTABLISH RHYTHM + JOB SEARCH BEGINS
 
 **Learning Target:** 30% → 45–50% (Bogdan Chapters mid‑30s to low‑40s)
+
+**Job Search Target:** Research companies, apply to 3 engineering roles
 
 **Hours Target:** 10–13 hours
 
 ### Day-by-Day (Sat–Fri)
 - Sat: 4–5h Bogdan deep work (code every example)
-- Sun: 3–4h Bogdan + 30 min write confusions list (for Thu)
+- Sun: 3–4h Bogdan + 30 min write confusions list + 30min job research
 - Tue/Thu: 1–1.5h each (target 2 short sessions)
 - Fri: 30 min check-in (metrics and notes)
 
+### Job Search Activities (Week 2)
+**Target Roles (Priority):**
+1. Junior Software Engineer (Backend)
+2. Platform Engineer
+3. Cloud Support Engineer (backup only)
+
+**Companies to Target:**
+- Tech companies with strong engineering culture
+- Scale-ups and mid-size companies (not large enterprises)
+- Remote-first or London-based
+- Strong mentorship and learning opportunities
+
+**Applications This Week:**
+- Research 10 companies
+- Create 30-company target list
+- Apply to 2-3 QUALITY roles (Junior SWE or Platform Engineer)
+
 ### Success Criteria
-- [ ] Bogdan ≥ 45%
+- [ ] Bogdan ≥ 45–50%
 - [ ] 10–13 hours achieved
 - [ ] Confusions list drafted (5–10 items)
+- [ ] 30-company target list created
+- [ ] 2-3 engineering applications submitted
 
 ---
 
-## WEEK 3 (Dec 6–12, 2025) - PROJECT 1 PLANNING + CONTINUED LEARNING
+## WEEK 3 (Dec 6–12, 2025) - PROJECT 1 PLANNING + JOB SEARCH CONTINUES
 
 **Learning Target:** 45–50% → 60–65%
 
 **Project Target:** Project 1 planning (choose, spec, repo skeleton)
 
-**Job Search Target:** Build 30-company list, research 10, request 5 endorsements
+**Job Search Target:** CV/LinkedIn optimization, apply to 3-5 more roles, networking
 
 **Hours Target:** 10–13 hours
 
 ### Day-by-Day (Sat–Fri)
 - Tue/Thu: 1–1.5h Bogdan (functions, iterators/generators)
 - Sat: 3h Bogdan + 2h Project 1 planning
-- Sun: 2h Bogdan review + 1.5h repo skeleton + 30m endorsements
+- Sun: 2h Bogdan review + 1.5h repo skeleton + 30m LinkedIn networking
 - Fri: 30 min check-in
+
+### Job Search Activities (Week 3)
+**CV/LinkedIn Updates:**
+- Update CV highlighting Python learning, cloud experience, projects
+- LinkedIn headline: "Aspiring Software Engineer | Python | Cloud Infrastructure"
+- Request 5 endorsements from colleagues/connections
+
+**Applications:**
+- Apply to 3-5 more engineering roles (Junior SWE/Platform Engineer priority)
+- Follow up on Week 2 applications
+- Connect with 5-10 engineers on LinkedIn (personalized messages)
+- Research 5 more target companies
+
+**Job Search Philosophy:**
+- Quality > Quantity (tailored applications, not mass applying)
+- Engineering roles > Support roles (career trajectory matters)
+- Strong culture > big name (mentorship and learning environment)
 
 ### Success Criteria
 - [ ] Bogdan ≥ 60–65%
 - [ ] Project 1 idea chosen + README skeleton
 - [ ] Repo scaffold created locally
-- [ ] 30-company sheet started; 10 companies researched
-- [ ] 5 LinkedIn endorsements requested
+- [ ] CV updated for Junior SWE/Platform Engineer roles
+- [ ] LinkedIn headline updated + profile optimized
+- [ ] 3-5 more engineering applications submitted
+- [ ] 5-10 LinkedIn connections made (engineers at target companies)
+- [ ] Follow-ups sent on Week 2 applications
 
 ---
 
@@ -125,7 +187,7 @@ For legacy content below (earlier dated weeks), treat as reference only. Follow 
 
 **Learning Target:** 65% → 70% (Chapters 50-54+)
 
-**Job Search Target:** Apply to 5 roles + connect with 10 cloud engineers
+**Job Search Target (UPDATED):** Apply to 2-3 Junior SWE/Platform Engineer roles (quality over quantity)
 
 **Hours Target:** 6-8 hours (RECOVERY WEEK - intentionally light)
 

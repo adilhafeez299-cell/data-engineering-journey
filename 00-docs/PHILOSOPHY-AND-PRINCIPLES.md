@@ -30,20 +30,50 @@ This career transition is built on three pillars:
 
 ## Job Search Principles
 
+### Job Search Philosophy Update (December 2025)
+
+**Original Thinking:**
+Get ANY better job → Quick stepping stone → Sprint certifications → DE by July 2026
+
+**Refined Strategy:**
+Get RIGHT engineering role → Stay 1-2 years and learn properly → Strong DE candidate by mid-2026 to mid-2027
+
+**Why the Change:**
+After reviewing actual job roles and reflecting on goals:
+- **Quality > Speed:** Better to build strong foundation than rush to title
+- **Engineering > Support:** Junior SWE/Platform roles provide better learning than Cloud Support
+- **Foundation > Shortcuts:** 1-2 years of proper engineering beats 9-month sprint
+- **Career Trajectory > Salary Bump:** Right role matters more than immediate pay increase
+
+**What This Means:**
+- **Target Roles (Priority Order):**
+  1. Junior Software Engineer (Backend) - Best for learning to code
+  2. Platform Engineer - Best for infrastructure at scale
+  3. Cloud Support Engineer - Backup only
+
+- **Timeline:** Flexible 18-24 months instead of rigid 9 months
+- **Strategy:** Stay in good engineering role 1-2 years if found
+- **Success Metric:** Becoming a STRONG engineer who happens to specialize in data > getting "Data Engineer" title quickly with weak skills
+
 ### 1. Strategic Application
 - Apply to roles that match 70%+ of requirements
 - Customize each application (no mass applying)
 - Focus on companies with strong engineering culture
+- **Prioritize engineering roles over support roles** (career trajectory)
+- Target 5-10 quality applications, not 50+ mass applications
 
 ### 2. Quality Signals
 - Each application should demonstrate genuine interest
 - Research the company and role before applying
 - Highlight transferable skills from cloud support
+- **Emphasize learning ability and growth mindset**
+- Show genuine interest in engineering, not just job hunting
 
 ### 3. Honest Positioning
 - Be transparent about current skill level
 - Emphasize learning ability and work ethic
 - Focus on potential and trajectory, not just current state
+- **Frame as "aspiring engineer" not "data engineer"** (for Junior SWE/Platform roles)
 
 ---
 
