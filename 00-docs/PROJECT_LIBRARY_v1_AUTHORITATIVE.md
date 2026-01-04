@@ -7,7 +7,7 @@
 ---
 
 ## PROJECT 1: Python Automation Tool
-**Phase:** 1 - Python Foundations (Nov-Dec 2025)  
+**Phase:** 1 - Python Foundations (Weeks 1-6: Jan 1 - Feb 12, 2026)
 **Status:** In Progress (Week 2)
 
 ### Overview
@@ -59,7 +59,7 @@ project1-[name]/
 ---
 
 ## PROJECT 2: Financial Dataset Analysis
-**Phase:** 2 - SQL & Data Analysis (Dec 2025 - Jan 2026)  
+**Phase:** 4A - SQL Mastery (Weeks 27-34: Jul 1 - Aug 21, 2026)
 **Status:** Not Started
 
 ### Overview
@@ -125,7 +125,8 @@ project2-financial-analysis/
 ---
 
 ## PROJECT 3: AWS Data Pipeline
-**Phase:** 3 - AWS & Cloud (Mar–May 2026)  
+**Phase:** 2-3 - AWS Certifications (Weeks 7-26: Feb 13 - Jun 30, 2026)
+**Note:** Optional project during AWS certification phase (time permitting)
 **Status:** Not Started
 
 ### Overview
@@ -228,7 +229,7 @@ project3-aws-pipeline/
 ---
 
 ## PROJECT 4: ML Classification Pipeline
-**Phase:** 5 - AWS Data Engineering (Mar 2026)  
+**Phase:** 5 - Interview Prep + Advanced Projects (Weeks 43-62: Oct 16 - Feb 26, 2027)
 **Status:** Not Started
 
 ### Overview
@@ -330,7 +331,7 @@ project4-ml-classification/
 ---
 
 ## PROJECT 5: Databricks Medallion ETL
-**Phase:** 4 - Databricks + Capstone (Jun–Jul 2026)  
+**Phase:** 4B - Databricks Certifications (Weeks 35-42: Aug 22 - Oct 15, 2026)
 **Status:** Not Started
 
 ### Overview
@@ -413,7 +414,7 @@ project5-databricks-medallion/
 ---
 
 ## PROJECT 6: CAPSTONE - Commodity Price Monitoring System
-**Phase:** 4 - Databricks + Capstone (Weeks 25–36, May 17 – Aug 3, 2026)  
+**Phase:** 5 - Interview Prep + Advanced Projects (Weeks 43-62: Oct 16 - Feb 26, 2027)
 **Status:** Not Started
 
 ### Overview
@@ -606,15 +607,15 @@ project6-capstone-commodity-system/
 
 | Project | Phase | Duration | Status | Tech Stack |
 |---------|-------|----------|--------|-----------|
-| 1. Python Automation | Phase 1 (Python) | Nov–Dec | In Progress | Python, CLI |
-| 2. Financial Analysis | Phase 2 (SQL) | Dec–Jan | Not Started | SQL, Python, Viz |
-| 3. AWS Pipeline | Phase 3 (AWS & Cloud) | Mar–May | Not Started | AWS, IaC |
-| 4. ML Classification | Phase 4 (Databricks + Capstone) | Jun–Jul | Not Started | scikit-learn, pandas |
-| 5. Databricks Medallion ETL | Phase 4 (Databricks + Capstone) | May–Jun | Not Started | PySpark, Delta |
-| 6. CAPSTONE | Weeks 25–36 | May 17–Aug 3 | Not Started | Full stack |
+| 1. Python Automation | Phase 1 (Python) | Weeks 1-6 (Jan-Feb 2026) | In Progress | Python, CLI |
+| 2. Financial Analysis | Phase 4A (SQL) | Weeks 27-34 (Jul-Aug 2026) | Not Started | SQL, Python, Viz |
+| 3. AWS Pipeline | Phase 2-3 (AWS) | Weeks 7-26 (Feb-Jun 2026) | Optional | AWS, IaC |
+| 4. ML Classification | Phase 5 (Advanced) | Weeks 43-62 (Oct 2026-Feb 2027) | Not Started | scikit-learn, pandas |
+| 5. Databricks Medallion ETL | Phase 4B (Databricks) | Weeks 35-42 (Aug-Oct 2026) | Not Started | PySpark, Delta |
+| 6. CAPSTONE | Phase 5 (Advanced) | Weeks 43-62 (Oct 2026-Feb 2027) | Not Started | Full stack |
 
-**Total Time:** ~90-100 hours across 7 months  
-**Portfolio Value:** High (demonstrates full-stack capability)  
+**Total Time:** ~90-100 hours across 18 months
+**Portfolio Value:** High (demonstrates full-stack capability)
 **Job Interview Value:** Strong talking points for each project
 
 ---
@@ -646,6 +647,7 @@ For each project, before considering it "done":
 
 ---
 
-**Version:** 1.0 - Authoritative Project Library  
-**Created:** November 18, 2025  
+**Version:** 2.0 - 18-Month AWS Cert-First Path
+**Created:** November 18, 2025
+**Updated:** January 4, 2026
 **Note:** All other "project lists" are deprecated. This is your source of truth.
