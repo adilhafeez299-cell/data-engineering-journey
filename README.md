@@ -18,7 +18,7 @@ Documenting my transition into data engineering through a structured 18-month AW
 **What I'm Working On NOW:**
 - ✅ Bogdan Python Course → 100% completion (currently ~30%)
 - ✅ Project 1: Python Automation Tool (in progress)
-- ✅ Establishing sustainable study rhythm (10-13 hrs/week)
+- ✅ Establishing a sustainable study rhythm (10-13 hrs/week)
 - ✅ Git/GitHub fundamentals
 
 **Next 8 Weeks:**
