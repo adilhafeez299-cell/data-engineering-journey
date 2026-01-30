@@ -1,0 +1,7 @@
+{
+  "Software": "Python",
+  "version": "3.12.1",
+  "Days coding": 143,
+  "proficiency": "Noob",
+  "Dream Job": "Junior developer"
+}
