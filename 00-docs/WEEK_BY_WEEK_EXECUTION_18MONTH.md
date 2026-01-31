@@ -2,8 +2,18 @@
 ## 18-Month AWS Cert-First Path
 
 **Created:** January 4, 2026
-**Timeline:** 78 weeks (Jan 1, 2026 → Jul 31, 2027)
-**Focus:** AWS certifications first (Weeks 7-26), then SQL + Databricks
+**Last Updated:** January 31, 2026
+**Timeline:** ~78 weeks (Nov 2025 → Jul 2027)
+**Focus:** AWS certifications first, then SQL + Databricks
+
+---
+
+> **CURRENT STATUS (Jan 31, 2026):**
+> - **You are at Week 9-10**
+> - **Bogdan Python:** 54/92 chapters (58% complete)
+> - **Remaining:** ~38 chapters to complete Phase 1
+> - **Target:** 100% Bogdan by Week 12
+> - **Weeks run Sat-Fri**
 
 ---
 
@@ -26,11 +36,12 @@
 
 ---
 
-## PHASE 1: PYTHON FOUNDATIONS
-**Weeks 1-6 (Jan 1 - Feb 12, 2026)**
+## PHASE 1: PYTHON FOUNDATIONS (EXTENDED)
+**Weeks 1-12 (Started Nov 2025, target completion ~Feb 2026)**
+**Current Progress:** 58% complete (54/92 chapters)
 
-### WEEK 1 (Jan 1-8, 2026)
-**Status:** Week 1 (Phase 1 of 6 phases)
+### WEEK 1 (Nov 2025)
+**Status:** ✅ COMPLETED
 **Learning Target:** Python fundamentals consolidation
 
 **PRIMARY TRACK (Heavy):**
@@ -44,13 +55,14 @@
 **Hours:** 10-12 hours total
 
 **Deliverables:**
-- [ ] Bogdan Python chapters completed
-- [ ] Notes on confusing topics
-- [ ] Practice problems written
+- [x] Bogdan Python chapters completed
+- [x] Notes on confusing topics
+- [x] Practice problems written
 
 ---
 
-### WEEK 2 (Jan 9-15, 2026)
+### WEEK 2
+**Status:** ✅ COMPLETED
 **Learning Target:** Continue Python fundamentals
 
 **PRIMARY TRACK (Heavy):**
@@ -64,13 +76,14 @@
 **Hours:** 10-12 hours total
 
 **Deliverables:**
-- [ ] Bogdan Python chapters completed
-- [ ] Project 1 idea selected
-- [ ] Project 1 README skeleton drafted
+- [x] Bogdan Python chapters completed
+- [x] Project 1 idea selected
+- [x] Project 1 README skeleton drafted
 
 ---
 
-### WEEK 3 (Jan 16-22, 2026)
+### WEEK 3
+**Status:** ✅ COMPLETED
 **Learning Target:** Python + Project 1 planning
 
 **PRIMARY TRACK (Heavy):**
@@ -84,13 +97,14 @@
 **Hours:** 10-12 hours total
 
 **Deliverables:**
-- [ ] Bogdan Python 50%+ complete
-- [ ] Project 1 repository created
-- [ ] Project 1 core logic outlined
+- [x] Bogdan Python progress continuing
+- [x] Project 1 repository created
+- [x] Project 1 core logic outlined
 
 ---
 
-### WEEK 4 (Jan 23-29, 2026)
+### WEEK 4
+**Status:** ✅ COMPLETED
 **Learning Target:** Project 1 core development
 
 **PRIMARY TRACK (Heavy):**
@@ -104,13 +118,14 @@
 **Hours:** 10-13 hours total
 
 **Deliverables:**
-- [ ] Project 1 core functionality working
-- [ ] Bogdan Python 60%+ complete
-- [ ] Error handling added to Project 1
+- [x] Project 1 core functionality working
+- [x] Bogdan Python progress continuing
+- [x] Error handling added to Project 1
 
 ---
 
-### WEEK 5 (Jan 30 - Feb 5, 2026)
+### WEEK 5
+**Status:** ✅ COMPLETED
 **Learning Target:** Project 1 completion + Python mastery
 
 **PRIMARY TRACK (Heavy):**
@@ -124,42 +139,128 @@
 **Hours:** 10-13 hours total
 
 **Deliverables:**
-- [ ] Project 1 complete with README
-- [ ] Project 1 pushed to GitHub
-- [ ] Bogdan Python 70%+ complete
+- [x] Project 1 progress
+- [x] Project 1 pushed to GitHub
+- [x] Bogdan Python progress continuing
 
 ---
 
-### WEEK 6 (Feb 6-12, 2026)
-**Learning Target:** Finish Python foundations, prepare for AWS phase
+### WEEK 6
+**Status:** ✅ COMPLETED
+**Learning Target:** Continue Python foundations
 
 **PRIMARY TRACK (Heavy):**
 - Sat: 4-5 hrs Bogdan Python (advanced topics: iterators, generators, OOP)
-- Sun: 4-5 hrs Bogdan Python (finish course + consolidation)
+- Sun: 4-5 hrs Bogdan Python (continue course)
 
 **Light weeknight study:**
 - Tue: 1 hr Python review
-- Thu: 1 hr AWS prep reading (get familiar with AWS services)
+- Thu: 1 hr Python review
 
 **Hours:** 10-12 hours total
 
 **Deliverables:**
+- [x] Bogdan Python progress continuing
+- [x] Project 1 polished and documented
+- [x] Sustainable study rhythm established
+
+---
+
+### WEEK 7
+**Status:** ✅ COMPLETED
+**Learning Target:** Continue Python foundations (Phase 1 extended)
+
+**PRIMARY TRACK (Heavy - Bogdan continuation):**
+- Sat: 4-5 hrs Bogdan Python
+- Sun: 4-5 hrs Bogdan Python
+
+**Light weeknight study:**
+- Tue: 1-2 hrs Bogdan review
+- Thu: 1-2 hrs Bogdan review
+
+**Hours:** 10-12 hours total
+
+**Deliverables:**
+- [x] Bogdan Python progress continuing
+- [x] Study rhythm maintained
+
+---
+
+### WEEK 8
+**Status:** ✅ COMPLETED
+**Learning Target:** Continue Python foundations (Phase 1 extended)
+
+**PRIMARY TRACK (Heavy - Bogdan continuation):**
+- Sat: 4-5 hrs Bogdan Python
+- Sun: 4-5 hrs Bogdan Python
+
+**Light weeknight study:**
+- Tue: 1-2 hrs Bogdan review
+- Thu: 1-2 hrs Bogdan review
+
+**Hours:** 10-12 hours total
+
+**Deliverables:**
+- [x] Bogdan Python progress continuing (~50%+ reached)
+- [x] Study rhythm maintained
+
+---
+
+### WEEK 9-10 (Jan 25 - Feb 7, 2026) ← CURRENT WEEK
+**Status:** 🔄 IN PROGRESS (as of Jan 31, 2026)
+**Learning Target:** Continue Python to 65%+
+
+**Current Progress:** Bogdan 54/92 chapters (58% complete)
+**Remaining:** ~38 chapters
+
+**PRIMARY TRACK (Heavy - Bogdan continuation):**
+- Sat: 4-5 hrs Bogdan Python (target: complete 5-7 chapters)
+- Sun: 4-5 hrs Bogdan Python (target: complete 5-7 chapters)
+
+**Light weeknight study:**
+- Tue: 1-2 hrs Bogdan review
+- Thu: 1-2 hrs Bogdan review
+
+**Hours:** 10-12 hours total
+
+**Deliverables:**
+- [ ] Bogdan Python 65%+ complete (~60/92 chapters)
+- [ ] Notes on OOP, iterators, advanced topics
+- [ ] Continue building momentum
+
+---
+
+### WEEK 11-12 (Feb 8-21, 2026) - PYTHON COMPLETION TARGET
+**Status:** UPCOMING
+**Learning Target:** Complete Bogdan Python 100%
+
+**PRIMARY TRACK (Heavy - Bogdan sprint):**
+- Sat: 5-6 hrs Bogdan Python (push to finish)
+- Sun: 5-6 hrs Bogdan Python (complete remaining chapters)
+
+**Light weeknight study:**
+- Tue: 2 hrs Bogdan sprint
+- Thu: 2 hrs Bogdan sprint
+
+**Hours:** 14-16 hours total (sprint to finish)
+
+**Deliverables:**
 - [ ] Bogdan Python Course 100% complete
-- [ ] Project 1 polished and documented
-- [ ] Sustainable study rhythm established
-- [ ] Ready to start AWS phase
+- [ ] All advanced topics covered (OOP, iterators, generators, decorators)
+- [ ] Ready to start AWS Phase 2
 
 ---
 
 ## PHASE 2: AWS DEVELOPER ASSOCIATE
-**Weeks 7-17 (Feb 13 - Apr 30, 2026)**
+**Weeks 13-23 (Feb 22 - May 15, 2026)** *(adjusted from original timeline)*
 
-### WEEK 7 (Feb 13-19, 2026) - AWS DEV FOUNDATIONS
+### WEEK 13 - AWS DEV FOUNDATIONS
+**Status:** NOT STARTED
 **Learning Target:** AWS fundamentals (services, IAM, EC2)
 
-**PRIMARY TRACK (Light - Bogdan review):**
-- Sat: 1 hr Bogdan review
-- Sun: 1 hr Bogdan review
+**PRIMARY TRACK (Light - Python review):**
+- Sat: 1 hr Python review
+- Sun: 1 hr Python review
 
 **AWS TRACK (Heavy - NEW):**
 - Tue: 2-2.5 hrs Tutorial Dojo AWS Dev (core services overview)
@@ -177,7 +278,8 @@
 
 ---
 
-### WEEK 8 (Feb 20-26, 2026) - AWS DEV FOUNDATIONS II
+### WEEK 14 - AWS DEV FOUNDATIONS II
+**Status:** NOT STARTED
 **Learning Target:** S3, Lambda, API Gateway
 
 **PRIMARY TRACK (Light):**
@@ -200,7 +302,8 @@
 
 ---
 
-### WEEK 9 (Feb 27 - Mar 5, 2026) - AWS DEV FOUNDATIONS III
+### WEEK 15 - AWS DEV FOUNDATIONS III
+**Status:** NOT STARTED
 **Learning Target:** CloudFormation, CI/CD, CodePipeline
 
 **PRIMARY TRACK (Light):**
@@ -223,7 +326,8 @@
 
 ---
 
-### WEEK 10 (Mar 6-12, 2026) - AWS DEV CONSOLIDATION
+### WEEK 16 - AWS DEV CONSOLIDATION
+**Status:** NOT STARTED
 **Learning Target:** Review AWS Dev concepts, practice scenarios
 
 **PRIMARY TRACK (Light):**
@@ -246,7 +350,8 @@
 
 ---
 
-### WEEK 11 (Mar 13-19, 2026) - AWS DEV SECURITY
+### WEEK 17 - AWS DEV SECURITY
+**Status:** NOT STARTED
 **Learning Target:** IAM deep dive, security best practices
 
 **PRIMARY TRACK (Light):**
@@ -269,7 +374,8 @@
 
 ---
 
-### WEEK 12 (Mar 20-26, 2026) - AWS DEV MONITORING
+### WEEK 18 - AWS DEV MONITORING
+**Status:** NOT STARTED
 **Learning Target:** CloudWatch, X-Ray, monitoring and logging
 
 **PRIMARY TRACK (Light):**
@@ -292,7 +398,8 @@
 
 ---
 
-### WEEK 13 (Mar 27 - Apr 2, 2026) - AWS DEV CERT SPRINT START
+### WEEK 19 - AWS DEV CERT SPRINT START
+**Status:** NOT STARTED
 **Learning Target:** Begin certification sprint, review all topics
 
 **AWS TRACK (Heavy - Sprint begins):**
@@ -311,7 +418,8 @@
 
 ---
 
-### WEEK 14 (Apr 3-9, 2026) - AWS DEV CERT SPRINT CONTINUE
+### WEEK 20 - AWS DEV CERT SPRINT CONTINUE
+**Status:** NOT STARTED
 **Learning Target:** Practice exams and weak area focus
 
 **AWS TRACK (Heavy):**
@@ -330,7 +438,8 @@
 
 ---
 
-### WEEK 15 (Apr 10-16, 2026) - AWS DEV PRACTICE EXAM #1
+### WEEK 21 - AWS DEV PRACTICE EXAM #1
+**Status:** NOT STARTED
 **Learning Target:** First full-length practice exam
 
 **AWS TRACK (Heavy):**
@@ -350,7 +459,8 @@
 
 ---
 
-### WEEK 16 (Apr 17-23, 2026) - AWS DEV PRACTICE EXAM #2
+### WEEK 22 - AWS DEV PRACTICE EXAM #2
+**Status:** NOT STARTED
 **Learning Target:** Second full-length practice exam, target 70%+
 
 **AWS TRACK (Heavy):**
@@ -370,14 +480,15 @@
 
 ---
 
-### WEEK 17 (Apr 24-30, 2026) - AWS DEV REAL EXAM
+### WEEK 23 - AWS DEV REAL EXAM
+**Status:** NOT STARTED
 **Learning Target:** Pass AWS Certified Developer Associate exam
 
 **AWS TRACK (Heavy):**
 - Tue: 2 hrs Light review (no new material)
 - Wed: Rest day (exam prep, mental preparation)
 - Thu: 2 hrs Light review (focus on confidence builders)
-- Fri: **REAL EXAM DAY** (schedule for Friday Apr 25)
+- Fri: **REAL EXAM DAY**
 - Sat/Sun: Celebrate if passed, or review for retake if needed
 
 **Hours:** 10-15 AWS hours/week (lighter, focused)
@@ -388,14 +499,15 @@
 - [ ] Celebration and recovery
 - [ ] Ready to start Solutions Architect phase
 
-**Retake Buffer:** If exam not passed, use Weeks 18-19 for focused retake preparation
+**Retake Buffer:** If exam not passed, use Weeks 24-25 for focused retake preparation
 
 ---
 
 ## PHASE 3: AWS SOLUTIONS ARCHITECT ASSOCIATE
-**Weeks 18-26 (May 1 - Jun 30, 2026)**
+**Weeks 24-32** *(adjusted from original timeline)*
 
-### WEEK 18 (May 1-7, 2026) - AWS SA FOUNDATIONS
+### WEEK 24 - AWS SA FOUNDATIONS
+**Status:** NOT STARTED
 **Learning Target:** Solutions Architect fundamentals (if Developer passed)
 
 **PRIMARY TRACK (Light):**
@@ -416,11 +528,12 @@
 - [ ] NAT gateway and Internet gateway configured
 - [ ] Understand VPC networking fundamentals
 
-**NOTE:** If Developer exam not passed in Week 17, use this week for retake prep instead.
+**NOTE:** If Developer exam not passed in Week 23, use this week for retake prep instead.
 
 ---
 
-### WEEK 19 (May 8-14, 2026) - AWS SA COMPUTE & STORAGE
+### WEEK 25 - AWS SA COMPUTE & STORAGE
+**Status:** NOT STARTED
 **Learning Target:** EC2 deep dive, storage services
 
 **PRIMARY TRACK (Light):**
@@ -443,7 +556,8 @@
 
 ---
 
-### WEEK 20 (May 15-21, 2026) - AWS SA DATABASES
+### WEEK 26 - AWS SA DATABASES
+**Status:** NOT STARTED
 **Learning Target:** RDS, DynamoDB, Aurora, database strategies
 
 **PRIMARY TRACK (Light):**
@@ -466,7 +580,8 @@
 
 ---
 
-### WEEK 21 (May 22-28, 2026) - AWS SA HIGH AVAILABILITY
+### WEEK 27 - AWS SA HIGH AVAILABILITY
+**Status:** NOT STARTED
 **Learning Target:** Load balancing, auto scaling, HA architecture
 
 **PRIMARY TRACK (Light):**
@@ -489,7 +604,8 @@
 
 ---
 
-### WEEK 22 (May 29 - Jun 4, 2026) - AWS SA GLOBAL & SECURITY
+### WEEK 28 - AWS SA GLOBAL & SECURITY
+**Status:** NOT STARTED
 **Learning Target:** Route53, CloudFront, security, global architecture
 
 **PRIMARY TRACK (Light):**
@@ -512,7 +628,8 @@
 
 ---
 
-### WEEK 23 (Jun 5-11, 2026) - AWS SA CERT SPRINT START
+### WEEK 29 - AWS SA CERT SPRINT START
+**Status:** NOT STARTED
 **Learning Target:** Begin SA certification sprint
 
 **AWS TRACK (Heavy - Sprint begins):**
@@ -531,7 +648,8 @@
 
 ---
 
-### WEEK 24 (Jun 12-18, 2026) - AWS SA PRACTICE EXAM #1
+### WEEK 30 - AWS SA PRACTICE EXAM #1
+**Status:** NOT STARTED
 **Learning Target:** First full-length SA practice exam
 
 **AWS TRACK (Heavy):**
@@ -551,7 +669,8 @@
 
 ---
 
-### WEEK 25 (Jun 19-25, 2026) - AWS SA PRACTICE EXAM #2
+### WEEK 31 - AWS SA PRACTICE EXAM #2
+**Status:** NOT STARTED
 **Learning Target:** Second full-length SA practice exam, target 70%+
 
 **AWS TRACK (Heavy):**
@@ -571,14 +690,15 @@
 
 ---
 
-### WEEK 26 (Jun 26-30, 2026) - AWS SA REAL EXAM
+### WEEK 32 - AWS SA REAL EXAM
+**Status:** NOT STARTED
 **Learning Target:** Pass AWS Solutions Architect Associate exam
 
 **AWS TRACK (Heavy):**
 - Tue: 2 hrs Light review (no new material)
 - Wed: Rest day (exam prep, mental preparation)
 - Thu: 2 hrs Light review (focus on confidence builders)
-- Fri: **REAL EXAM DAY** (schedule for Friday Jun 26)
+- Fri: **REAL EXAM DAY**
 - Sat/Sun: Celebrate if passed, or review for retake if needed
 
 **Hours:** 10-15 AWS hours/week (lighter, focused)
@@ -590,17 +710,18 @@
 - [ ] Celebration and recovery
 - [ ] Ready to start SQL + Databricks phase
 
-**Retake Buffer:** If exam not passed, use Weeks 27-28 for focused retake preparation
+**Retake Buffer:** If exam not passed, use Weeks 33-34 for focused retake preparation
 
 ---
 
 ## PHASE 4: SQL MASTERY + DATABRICKS
-**Weeks 27-42 (Jul 1 - Oct 15, 2026)**
+**Weeks 33-48** *(adjusted from original timeline)*
 
-### WEEKS 27-34: SQL MASTERY
+### WEEKS 33-40: SQL MASTERY
+**Status:** NOT STARTED
 **Learning Target:** SQL fundamentals through advanced queries
 
-**Weekly Pattern (Weeks 27-34):**
+**Weekly Pattern (Weeks 33-40):**
 - Tue: 2 hrs Mode Analytics SQL Tutorial
 - Thu: 2 hrs SQL practice problems
 - Sat: 3-4 hrs SQL deep study + Project 2 work
@@ -608,7 +729,7 @@
 
 **Weekly Hours:** 10-12 hours
 
-**Deliverables (by Week 34):**
+**Deliverables (by Week 40):**
 - [ ] Mode Analytics SQL Tutorial complete
 - [ ] 30+ SQL practice queries written
 - [ ] Project 2: Financial Dataset Analysis complete
@@ -616,10 +737,11 @@
 
 ---
 
-### WEEKS 35-42: DATABRICKS CERTIFICATIONS
+### WEEKS 41-48: DATABRICKS CERTIFICATIONS
+**Status:** NOT STARTED
 **Learning Target:** Earn Databricks Associate + Professional certs
 
-**Weekly Pattern (Weeks 35-42):**
+**Weekly Pattern (Weeks 41-48):**
 - Tue: 2-2.5 hrs Databricks Academy
 - Thu: 2-2.5 hrs Databricks hands-on labs
 - Sat: 4-5 hrs Databricks study + Project 3 work
@@ -628,12 +750,12 @@
 **Weekly Hours:** 12-15 hours
 
 **Certification Sprints:**
-- Week 35: Databricks Associate cert sprint
-- Week 36: Databricks Associate exam
-- Weeks 37-41: Databricks Professional cert sprint
-- Week 42: Databricks Professional exam
+- Week 41: Databricks Associate cert sprint
+- Week 42: Databricks Associate exam
+- Weeks 43-47: Databricks Professional cert sprint
+- Week 48: Databricks Professional exam
 
-**Deliverables (by Week 42):**
+**Deliverables (by Week 48):**
 - [ ] Databricks Certified Data Engineer Associate PASSED
 - [ ] Databricks Certified Data Engineer Professional PASSED
 - [ ] Project 3: Databricks Medallion ETL Pipeline complete
@@ -711,6 +833,8 @@ Notes: [Anything else]
 
 ---
 
-**Version:** 2.0 - 18-Month AWS Cert-First Path
+**Version:** 2.1 - 18-Month AWS Cert-First Path
 **Created:** January 4, 2026
+**Last Updated:** January 31, 2026
+**Current Week:** 9-10 (Phase 1 Python - 58% complete)
 **Next Review:** Weekly (Every Friday)

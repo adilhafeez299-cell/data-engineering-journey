@@ -1,10 +1,12 @@
-# DATA ENGINEERING CAREER TRANSITION
+# SOFTWARE ENGINEERING CAREER TRANSITION
 ## Master Plan - 18-Month AWS Cert-First Path
 **Created:** January 4, 2026
-**Status:** Week 2 In Progress
-**Timeline:** January 1, 2026 → July 31, 2027 (78 weeks / 18 months)
+**Status:** Week 9-10 In Progress (Jan 31, 2026)
+**Timeline:** November 2025 → July 2027 (~18-20 months)
 **Current Role:** Junior Systems Engineer at Atlas Technica (£35k)
-**Target:** Data Engineer (£60k-£75k) by mid-2027
+**Target:** Software Engineer - Python Focus (£60k-£75k) by mid-2027
+**Primary Path:** Data/Platform/Cloud Engineering
+**Secondary Flexibility:** AI, Backend, or any Python-heavy role
 **Location:** London, UK
 
 ---
@@ -12,7 +14,11 @@
 ## EXECUTIVE SUMMARY
 
 ### The Mission
-Transform from Systems Engineer to Data Engineer through strategic AWS cert-first approach:
+Transform from Systems Engineer to Python-focused Software Engineer through strategic AWS cert-first approach.
+
+**Broader Goal:** Become a well-rounded software engineer. Primary path is Data/Platform/Cloud Engineering, but with flexibility to pivot to AI, Backend, or any Python-heavy role based on market opportunities.
+
+**Learning Library:** 23 books purchased covering Python Pro, System Design, Leadership, Investing, etc. - shelf reference for deeper dives as needed.
 - **Phase 1:** Python Foundations (Weeks 1-6)
 - **Phase 2:** AWS Developer Associate (Weeks 7-17)
 - **Phase 3:** AWS Solutions Architect Associate (Weeks 18-26)
@@ -54,8 +60,8 @@ Transform from Systems Engineer to Data Engineer through strategic AWS cert-firs
 ## PHASE BREAKDOWN
 
 ### PHASE 1: PYTHON FOUNDATIONS
-**Duration:** Weeks 1-6 (Jan 1 - Feb 12, 2026)
-**Status:** Week 2 IN PROGRESS
+**Duration:** Weeks 1-10+ (Started Nov 2025, ongoing)
+**Status:** IN PROGRESS - 58% complete (54/92 chapters as of Jan 31, 2026)
 
 **Learning Goals:**
 - Master Python fundamentals (variables, data structures, functions, OOP)
@@ -64,7 +70,7 @@ Transform from Systems Engineer to Data Engineer through strategic AWS cert-firs
 - Establish sustainable study rhythm
 
 **Resources:**
-- Primary: Bogdan Python Course (O'Reilly) - Complete all chapters
+- Primary: Bogdan Python Course (O'Reilly) - 54/92 chapters complete (58%)
 - Secondary: Python for Data Analysis (McKinney) - Chapters 1-5 (commute reading)
 
 **Weekly Allocation:** 10-13 hours/week (weekends 80%, weeknights 20%)
@@ -435,12 +441,12 @@ Notes: [Anything else]
 
 ---
 
-## NEXT IMMEDIATE ACTIONS (Week 2)
+## NEXT IMMEDIATE ACTIONS (Week 9-10)
 
 ### Learning Track
-- [ ] Bogdan Python: Continue coding every example
+- [ ] Bogdan Python: Continue from chapter 54/92 (58% → 65%+ target)
 - [ ] Take detailed notes on confusing sections
-- [ ] Target: Continue steady progress toward 100%
+- [ ] Target: Complete Phase 1 Python foundations, prepare for AWS phase
 
 ### Weekly Check-In
 - [ ] Friday evening: Report progress to Claude
@@ -482,7 +488,8 @@ Date: January 4, 2026
 
 ---
 
-**Version:** 2.0 - 18-Month AWS Cert-First Path
+**Version:** 2.1 - 18-Month AWS Cert-First Path (Python-Focused SE)
 **Created:** January 4, 2026
-**Status:** Week 2 In Progress
+**Last Updated:** January 31, 2026
+**Status:** Week 9-10 In Progress (Phase 1: 58% complete)
 **Next Review:** Weekly (Every Friday)

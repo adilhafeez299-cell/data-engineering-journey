@@ -7,34 +7,40 @@
 ## QUICK CONTEXT TEMPLATE (Copy This Every New Chat)
 
 ```
-I'm Adil, Week [CURRENT_WEEK] of 36-week Data Engineering roadmap.
+I'm Adil, Week 9-10 of my 18-month Software Engineering roadmap (Jan 31, 2026).
 
 CURRENT STATUS:
-- Phase: [1/2/3/4]
-- Primary learning: [Bogdan Python / SQL + Pandas / AWS DE / Databricks]
-- Current progress: [X]% through current phase
+- Phase: 1 (Python Fundamentals) - 58% complete
+- Primary learning: Bogdan Python Course (54/92 chapters, ~38 remaining)
+- Target: Complete Bogdan 100% by Week 12 (mid-Feb 2026)
 - Key docs: See /00-docs/ in my data-engineering-journey repo
-  - Master plan: MASTER_PLAN_v1_AUTHORITATIVE.md
-  - Week-by-week: WEEK_BY_WEEK_EXECUTION_v1_AUTHORITATIVE.md
-  - Project library: PROJECT_LIBRARY_v1_AUTHORITATIVE.md
+  - Master plan: MASTER_PLAN_18MONTH.md
+  - Week-by-week: WEEK_BY_WEEK_EXECUTION_18MONTH.md
+
+CAREER GOAL:
+- Target: Python-focused Software Engineer
+- Primary path: Data/Platform/Cloud Engineering
+- Secondary flexibility: AI, Backend, or any Python-heavy role
+- Broader goal: Well-rounded software engineer with strong Python foundation
 
 WORKFLOW THAT WORKS FOR ME:
 - When I hit confusion: Point me to specific theory/resource → I read → Continue practicing
 - Don't let me spiral about "going off track" - fixing learning gaps IS the track
-- I'm in Week [X] of 36 - struggling with new concepts is normal and expected
+- I'm in Week 9-10 - struggling with new concepts is normal and expected
 - Guide me to theory when needed, then let me practice by doing
 
 MY LEARNING CONTEXT:
 - Working full-time 9-6 as Systems Engineer at Atlas Technica
-- Study schedule: Weekend-heavy (Sat 4-5h, Sun 3-4h), minimal weekday (Mon/Wed 1h if needed)
+- Study schedule: Weekend-heavy (Sat 4-5h, Sun 4-5h), weeknights Tue/Thu (1-2h if energy permits)
 - Phase 1 supplement: Automate the Boring Stuff (ATBS) for Python theory
 - I maintain fitness routine 5-6x/week - this is non-negotiable for mental health
+- Resources: 23 SE books purchased (shelf for later - Python Pro, System Design, Leadership, etc.)
 
 REALISTIC EXPECTATIONS:
 - I'm still building fundamentals - can't write code fluently yet
 - I WILL get stuck on exercises - that's part of learning
 - I need theory when concepts don't click - reading isn't "going off track"
-- I'm executing a 36-week marathon, not a sprint
+- I'm executing an 18-month marathon, not a sprint
 
 What I need help with today: [YOUR SPECIFIC QUESTION]
 ```
@@ -43,10 +49,13 @@ What I need help with today: [YOUR SPECIFIC QUESTION]
 
 ## PHASE-SPECIFIC CONTEXT
 
-### Phase 1: Python Fundamentals (Weeks 1-8, Nov 23 - Jan 12)
+### Phase 1: Python Fundamentals (Weeks 1-12, Nov 2025 - Feb 2026)
+**Status:** IN PROGRESS - 58% complete (Jan 31, 2026)
+**Target:** Complete 100% by Week 12 (mid-Feb 2026)
+**Current focus:** Chapters 54-92, ~38 chapters remaining
 
 **Learning Resources:**
-- Primary: Bogdan Stashchuk's Python course (Udemy)
+- Primary: Bogdan Stashchuk's Python course (O'Reilly) - 54/92 chapters done
 - Theory supplement: Automate the Boring Stuff (ATBS)
 - Reading during commute: Python for Data Analysis (context for future)
 
@@ -58,15 +67,16 @@ What I need help with today: [YOUR SPECIFIC QUESTION]
 
 **Target by End of Phase:**
 - 100% Bogdan course completion
-- 5 projects built (CSV Analyzer, Task CLI, Web Scraper, Log Parser, Testing Suite)
-- Solid understanding of Python fundamentals
-- Ready for SQL and data manipulation in Phase 2
+- Project 1 built (Python automation tool)
+- Solid understanding of Python fundamentals (OOP, iterators, generators, decorators)
+- Ready for AWS Developer Associate phase
 
 **Common struggles (normal and expected):**
 - Understanding return vs print
 - When to use different data structures
 - Error handling patterns
 - Function parameters and arguments
+- OOP concepts (classes, inheritance, methods)
 
 ---
 
@@ -202,26 +212,26 @@ Help me evaluate which option keeps me on track for the Sep 2026 job target.
 
 **Always available in your `/00-docs/` folder:**
 
-1. **MASTER_PLAN_v1_AUTHORITATIVE.md**
-   - Complete 36-week roadmap overview
-   - Phase breakdowns
-   - Certification timeline
+1. **MASTER_PLAN_18MONTH.md**
+   - Complete 18-month roadmap overview (78 weeks)
+   - Phase breakdowns and certification timeline
+   - Career goal: Python-focused SE with Data/Platform/Cloud primary path
    - Reference when: Planning long-term, evaluating progress against overall timeline
 
-2. **WEEK_BY_WEEK_EXECUTION_v1_AUTHORITATIVE.md**
+2. **WEEK_BY_WEEK_EXECUTION_18MONTH.md**
    - Detailed week-by-week breakdown
-   - Daily study patterns
+   - Daily study patterns (Sat-Fri weeks)
    - Specific targets and success criteria
    - Reference when: Planning weekly schedule, checking if on track
 
 3. **PROJECT_LIBRARY_v1_AUTHORITATIVE.md**
-   - All 14 projects with specifications
+   - Project specifications
    - Technologies and learning objectives per project
    - Reference when: Starting a new project, understanding project requirements
 
 4. **PHILOSOPHY-AND-PRINCIPLES.md**
    - Your core learning principles
-   - Why you made strategic choices (DE first, then ML)
+   - Why you made strategic choices
    - Reference when: Doubting your approach, need motivation reminder
 
 5. **HOW_TO_USE_YOUR_PLANS.md**
@@ -240,38 +250,39 @@ Help me evaluate which option keeps me on track for the Sep 2026 job target.
 
 Copy these when you're feeling overwhelmed:
 
-**Reality Check - Week 2:**
-- [X] You should NOT write code fluently yet
+**Reality Check - Week 9-10 (Current):**
+- [X] You should NOT write code fluently yet - you're 58% through Python
 - [X] You should NOT understand everything first try
-- [EXPECTED] You SHOULD struggle with new concepts
+- [EXPECTED] You SHOULD struggle with advanced concepts (OOP, iterators, generators)
 - [EXPECTED] You SHOULD need to look things up constantly
 - [NORMAL] Confusion = learning is happening
+- [ON TRACK] 58% Bogdan with ~38 chapters to go is solid progress
 
-**Reality Check - Week 8:**
-- [EXPECTED] Can write basic Python scripts
-- [EXPECTED] Understand core concepts solidly
+**Reality Check - Week 12 (Phase 1 Target):**
+- [EXPECTED] Can write basic Python scripts confidently
+- [EXPECTED] Understand core + advanced concepts solidly
 - [X] Won't know everything (nobody does)
 - [NORMAL] Still looking things up (everyone does)
 
-**Reality Check - Week 36:**
-- [TARGET] Job-ready for Data Engineer roles
-- [TARGET] Confident with DE tools and workflows
+**Reality Check - Week 78 (End of Plan):**
+- [TARGET] Job-ready for Python-focused SE roles
+- [TARGET] Confident with Cloud/Data Engineering tools and workflows
 - [X] Won't be senior level (that takes years)
 - [NORMAL] STILL looking things up (senior engineers do too)
 
 **When You Want to Give Up:**
-- You're not behind - you're in Week [X] of 36
-- Every data engineer struggled exactly where you are now
+- You're not behind - you're in Week 9-10 of an 18-month plan
+- Every software engineer struggled exactly where you are now
 - Reading theory when confused is NOT going off track
 - Struggling with exercises is NOT failure - it's learning
-- You have 20+ hours of buffer built into your schedule
+- You have flexibility built into your schedule
 
 ---
 
 ## CALIBRATION REMINDERS FOR CLAUDE
 
 **When Adil spirals:**
-- Remind him: Week [X] expectations are realistic
+- Remind him: Week 9-10 with 58% Bogdan is solid progress
 - Point to specific doc section that shows he's on track
 - Redirect to immediate next action (read X, then do Y)
 - No long explanations - concise redirection
@@ -283,9 +294,9 @@ Copy these when you're feeling overwhelmed:
 - After he reads: Help him apply it to his current task
 
 **When Adil asks "am I off track?":**
-- Check current week number
+- Check current week number (currently Week 9-10)
 - Check his hours logged vs target
-- Check his progress % vs target
+- Check his Bogdan progress (currently 58%, target 100% by Week 12)
 - Give binary answer: Yes on track / No adjust by doing X
 
 **When Adil resists reading theory:**
@@ -297,22 +308,25 @@ Copy these when you're feeling overwhelmed:
 
 ## SUCCESS METRICS BY PHASE
 
-**Phase 1 (Current):**
+**Phase 1 - Python Fundamentals (Current - Weeks 1-12):**
 - Weekly: 10-13 hours logged
-- End target: 100% Bogdan, 5 projects complete
-- Job application prep begins Week 8
+- Current: 58% Bogdan (54/92 chapters)
+- End target: 100% Bogdan, Project 1 complete
 
-**Phase 2:**
-- Weekly: 10-13 hours logged
-- End target: 50+ SQL problems, pandas proficiency, 3 projects
+**Phase 2 - AWS Developer Associate (Weeks 13-23):**
+- Weekly: 10-12 hours logged
+- End target: AWS Developer Associate certification
 
-**Phase 3:**
-- Weekly: 12-15 hours (certification prep)
-- End target: AWS DE cert, 3 cloud projects
+**Phase 3 - AWS Solutions Architect Associate (Weeks 24-32):**
+- Weekly: 10-12 hours (certification prep)
+- End target: AWS Solutions Architect Associate certification
 
-**Phase 4:**
-- Weekly: 12-15 hours (dual cert prep)
-- End target: 2 Databricks certs, capstone project, job search launched
+**Phase 4 - SQL + Databricks (Weeks 33-48):**
+- Weekly: 10-15 hours
+- End target: SQL mastery, 2 Databricks certs, portfolio projects
+
+**Phase 5-6 - Interview Prep + Job Search (Weeks 49-78):**
+- End target: Job offer as Python-focused Software Engineer
 
 ---
 
@@ -323,17 +337,17 @@ Copy these when you're feeling overwhelmed:
 Use it every new chat to give Claude complete context instantly. No more back-and-forth to establish where you are or what workflow works.
 
 **Update as you progress:**
-- Change "Week [X]" to current week
+- Change week number to current week
 - Update phase and current learning resource
 - Adjust progress percentages
 
 **Remember:**
-- You're executing a 36-week marathon
-- Week 2 confusion is completely normal
+- You're executing an 18-month marathon
+- Week 9-10 with 58% Bogdan is solid progress
 - Every struggle is building competence
-- September 2026 Data Engineer role is achievable
+- Mid-2027 Python-focused SE role is achievable
 
 ---
 
-*Last updated: Week 2, Dec 2025*
-*Next review: End of Phase 1 (Jan 12, 2026)*
+*Last updated: Week 9-10, Jan 31, 2026*
+*Next review: End of Phase 1 (Week 12, mid-Feb 2026)*
