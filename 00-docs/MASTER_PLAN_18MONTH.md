@@ -19,12 +19,12 @@ Transform from Systems Engineer to Python-focused Software Engineer through stra
 **Broader Goal:** Become a well-rounded software engineer. Primary path is Data/Platform/Cloud Engineering, but with flexibility to pivot to AI, Backend, or any Python-heavy role based on market opportunities.
 
 **Learning Library:** 23 books purchased covering Python Pro, System Design, Leadership, Investing, etc. - shelf reference for deeper dives as needed.
-- **Phase 1:** Python Foundations (Weeks 1-6)
-- **Phase 2:** AWS Developer Associate (Weeks 7-17)
-- **Phase 3:** AWS Solutions Architect Associate (Weeks 18-26)
-- **Phase 4:** SQL Mastery + Databricks (Weeks 27-42)
-- **Phase 5:** Interview Prep + Advanced Projects (Weeks 43-62)
-- **Phase 6:** Final Certifications + Job Search (Weeks 63-78)
+- **Phase 1:** Python Foundations (Weeks 1-12, extended due to realistic pacing)
+- **Phase 2:** AWS Developer Associate (Weeks 13-23)
+- **Phase 3:** AWS Solutions Architect Associate (Weeks 24-32)
+- **Phase 4:** SQL Mastery + Databricks (Weeks 33-48)
+- **Phase 5:** Interview Prep + Advanced Projects (Weeks 49-68)
+- **Phase 6:** Final Certifications + Job Search (Weeks 69-78+)
 
 ### Why AWS Certifications First?
 1. **Market Value**: AWS certs significantly boost CV credibility early
