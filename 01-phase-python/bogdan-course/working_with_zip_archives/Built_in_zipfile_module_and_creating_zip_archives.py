@@ -23,4 +23,5 @@ with ZipFile('my-files.zip') as zip_file:
     # print(zip_file)
     # print(type(zip_file))
     # print(zip_file.infolist())
-    zip_file.extractall()
+    # zip_file.extractall()
+    zip_file.extract('my_files/first.txt', 'my_files/second.txt')
