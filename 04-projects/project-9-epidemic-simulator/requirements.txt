@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+pytest
+pytest-cov
+black
+pylint
